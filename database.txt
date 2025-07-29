@@ -1,3 +1,4 @@
-Vitality,0,1,1
-Falcons,0,1,2
-Furia,1,2,0
+Vitality,0,1,1,0,0
+Falcons,0,1,2,0,0
+Furia,1,2,0,0,0
+FaZe,2,0,1,0,2

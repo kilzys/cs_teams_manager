@@ -18,3 +18,7 @@ def obter_banco(database_name):
 
     # Retorno da database formatada
     return database
+
+
+def atualizar_banco():
+    print('WIP')
