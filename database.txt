@@ -1,1 +1,3 @@
-Litch
+Vitality,0,1,1
+Falcons,0,1,2
+Furia,1,2,0

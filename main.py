@@ -1,9 +1,6 @@
 from files_functions import *
+from db_manipulation import *
 
-while True:
-    database = read('database.txt')
-    print(database)
-    adicionar = input(': ')
-    if adicionar == '999':
-        break
-    write('database.txt', adicionar)
+# Team - Wins - Streak - Loses - Majors
+database = obter_banco('database.txt')  
+print(database)
