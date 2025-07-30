@@ -57,9 +57,9 @@ def registrar(database):
 
 
 def excluir(database):
-    print('\033[31mDigite 000 para cancelar\033[m')
+    print('\033[31mDigite 999 para cancelar\033[m')
     id = int(input('Digite o ID do time que deseja excluir: '))
-    if id == 000:
+    if id == 999:
         return
     for item in range(len(database)):
         if item >= id:

@@ -19,14 +19,14 @@ def menu_modf(database):
 
 def update_time(database):
         team = selecionar_time()
-        if team != 000:
+        if team != 999:
             menu_sincronizar(team, database)
         else:
              return
 
 
 def selecionar_time():
-        print('Digite o ID do time: [000 para cancelar] ')
+        print('Digite o ID do time: [999 para cancelar] ')
         id_team = int(input(': '))
         return id_team
 
@@ -51,7 +51,9 @@ def menu_sincronizar(id, database):
             database[id][3] = int(database[id][3])+1
             points(database, id)
         elif option == 2:
-            pass
+            valor = special_interface()
+            if valor != 'null':
+                points_especial(database, id, valor)
         else:
             return
 
@@ -104,3 +106,19 @@ def zerar_banco(database):
         team_name = database[time][0]
         database[time] = [team_name,0,0,0,0,0]
     print('\033[41mFunção de admin utilizada, banco de dados zerado para todos os times existente.\033[m')
+
+
+def special_interface():
+    print('\033[32m[0] - Vitória nas Quartas')
+    print('[1] - Vitória nas SemiFinais')
+    print('[2] - Ganhou um Torneio')
+    print('\033[35m[3] - Chegou nas Playoffs de Major')
+    print('[4] - Vitória nas Quartas de Major')
+    print('[5] - Vitória nas Semifinais de Major')
+    print('[6] - Venceu o Major')
+    print('\033[m[999] - Cancelar')
+    option = int(input(': '))
+    if option != 999:
+        return option
+    else:
+        return 'null'
