@@ -39,11 +39,15 @@ def visualizar(database):
 
 
 def registrar(database):
+    from teste_function import verificar_duplicidade
     while True:
         temp = []
         index = len(database)
         print('\033[31mSe desejar cancelar, digite "000" no nome do time\033[m')
         team = input('Team: \033[34m')
+        if team == '000':
+            return
+        team = verificar_duplicidade(database, team)
         if team == '000':
             return
         confirm = input('\033[31mConfirmar novo time? [s/n] \033[m')
