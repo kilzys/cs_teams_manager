@@ -12,8 +12,8 @@ def interface(database):
         if option == '0':
             visualizar(database)
         elif option == '1':
-            new_database = registrar(database)
-            dados_brutos = atualizar_banco(new_database)
+            registrar(database)
+            dados_brutos = atualizar_banco(database)
             write('database.txt', dados_brutos)
         elif option == '2':
             pass
@@ -49,4 +49,4 @@ def registrar(database):
         if confirm in 'Ss':
             temp = [team, team_w, team_s, team_l, team_p, team_m]
             database[index] = temp.copy()
-            return database
+            return
