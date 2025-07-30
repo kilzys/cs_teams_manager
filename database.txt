@@ -1,20 +1,20 @@
 Falcons,0,0,0,0,0
 Furia,0,0,0,0,0
-FaZe,0,0,0,0,0
+FaZe,2,1,1,19,0
 Liquid,0,0,0,0,0
 Iluminar Gaming,0,0,0,0,0
-NAVI,0,0,0,0,0
+NAVI,0,0,2,-5,0
 Imperial,0,0,0,0,0
 Spirit,0,0,0,0,0
 BC.Game,0,0,0,0,0
-Astana Dragons,0,0,0,0,0
+Astana Dragons,1,1,1,8,0
 Copenhagen Wolves,0,0,0,0,0
-Copenhagen Flames,0,0,0,0,0
+Copenhagen Flames,1,0,2,3,0
 TYLOO,0,0,0,0,0
 Outsiders,0,0,0,0,0
 Heroic,0,0,0,0,0
 Dignitas,1,0,2,3,0
-iBUYPOWER,0,0,0,0,0
-Fnatic,0,0,0,0,0
+iBUYPOWER,2,2,0,25,0
+Fnatic,2,1,1,19,0
 Vitality,0,0,0,0,0
-SK Gaming,0,0,0,0,0
+SK Gaming,2,2,1,25,0

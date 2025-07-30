@@ -27,6 +27,6 @@ def points_especial(database, id, type):
     elif type == 6:
         major = int(database[id][5])
         points += 8
-        database[id][5] += 1
+        database[id][5] = int(database[id][5])+major
     database[id][4] = points
     
