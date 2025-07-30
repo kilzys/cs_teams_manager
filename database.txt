@@ -8,3 +8,8 @@ NAVI,0,0,0,0,0
 Imperial,0,0,0,0,0
 Spirit,0,0,0,0,0
 BC.Game,0,0,0,0,0
+Astana Dragons,0,0,0,0,0
+Astana Dragons,0,0,0,0,0
+Copenhagen Wolves,0,0,0,0,0
+Copenhagen Flames,0,0,0,0,0
+NIP,0,0,0,0,0

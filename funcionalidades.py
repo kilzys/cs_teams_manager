@@ -43,17 +43,12 @@ def registrar(database):
         temp = []
         index = len(database)
         print('\033[31mSe desejar cancelar, digite "000" no nome do time\033[m')
-        team = input('Team: ')
+        team = input('Team: \033[34m')
         if team == '000':
             return
-        team_w = int(input('Wins: '))
-        team_s = int(input('Streak: '))
-        team_l = int(input('Loses: '))
-        team_p = int(input('Points: '))
-        team_m = int(input('Majors: '))
         confirm = input('\033[31mConfirmar novo time? [s/n] \033[m')
         if confirm in 'Ss':
-            temp = [team, team_w, team_s, team_l, team_p, team_m]
+            temp = [team,0,0,0,0,0]
             database[index] = temp.copy()
             return
 
