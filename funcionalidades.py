@@ -16,7 +16,6 @@ def interface(database):
             registrar(database)
             sincronizar_database(database)
         elif option == '2':
-            visualizar(database)
             menu_modf(database)
         elif option == '3':
             visualizar(database)
@@ -46,11 +45,11 @@ def registrar(database):
         team = input('Team: ')
         if team == '999':
             return
-        team_w = input('Wins: ')
-        team_s = input('Streak: ')
-        team_l = input('Loses: ')
-        team_p = input('Points: ')
-        team_m = input('Majors: ')
+        team_w = int(input('Wins: '))
+        team_s = int(input('Streak: '))
+        team_l = int(input('Loses: '))
+        team_p = int(input('Points: '))
+        team_m = int(input('Majors: '))
         confirm = input('\033[31mConfirmar novo time? [s/n] \033[m')
         if confirm in 'Ss':
             temp = [team, team_w, team_s, team_l, team_p, team_m]
