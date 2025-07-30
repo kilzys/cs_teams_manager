@@ -16,5 +16,5 @@ Heroic,0,0,0,0,0
 Dignitas,1,0,2,3,0
 iBUYPOWER,2,2,0,25,0
 Fnatic,2,1,1,19,0
-Vitality,0,0,0,0,0
+Vitality,3,3,0,35,0
 SK Gaming,2,2,1,25,0
