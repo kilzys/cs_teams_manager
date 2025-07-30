@@ -1,12 +1,13 @@
 from db_manipulation import atualizar_banco
 from files_functions import write
+from modification_functions import *
 
 def interface(database):
     while True:
         print('\033[32m[0] - Visualizar Times\033[m')
         print('\033[32m[1] - Registrar Novo Time\033[m')
-        print('\033[31m[2] - Atualizar Time\033[m')
-        print('\033[33m[3] - Excluir Time\033[m')
+        print('\033[33m[2] - Atualizar Time\033[m')
+        print('\033[32m[3] - Excluir Time\033[m')
         print('\033[32m[4] - Sair\033[m')
         option = input(': ')
         if option == '0':
@@ -15,8 +16,10 @@ def interface(database):
             registrar(database)
             sincronizar_database(database)
         elif option == '2':
-            pass
+            visualizar(database)
+            menu_modf(database)
         elif option == '3':
+            visualizar(database)
             excluir(database)
             sincronizar_database(database)
         elif option == '4':
@@ -39,7 +42,7 @@ def registrar(database):
     while True:
         temp = []
         index = len(database)
-        print('Se desejar cancelar, digite "999" no nome do time')
+        print('\033[31mSe desejar cancelar, digite "999" no nome do time\033[m')
         team = input('Team: ')
         if team == '999':
             return
@@ -56,7 +59,7 @@ def registrar(database):
 
 
 def excluir(database):
-    print('Digite 9999 para cancelar')
+    print('\033[31mDigite 9999 para cancelar\033[m')
     id = int(input('Digite o ID do time que deseja excluir: '))
     if id == 999:
         return
