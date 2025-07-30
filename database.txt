@@ -7,4 +7,4 @@ Iluminar Gaming,0,0,0,20,3
 NAVI,0,2,3,1,2
 Imperial,0,20,0,1,2
 Spirit,20,8,0,30,5
-BC.Game,0,0,0,0,0
+BC.Game,17,0,25,0,0

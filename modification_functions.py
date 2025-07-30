@@ -29,16 +29,21 @@ def selecionar_time():
 
 def menu_sincronizar(id, database):
     while True:
-        print(f'\033[43m  {database[id][0]}  \033[m')
+        print(f'\033[34m  {database[id][0]}  \033[m')
+        print(f'\033[34m  Wins: {database[id][1]}  \033[m')
+        print(f'\033[34m  Streak: {database[id][2]}  \033[m')
+        print(f'\033[34m  Loses: {database[id][3]}  \033[m')
+        print(f'\033[34m  Points: {database[id][4]}  \033[m')
+        print(f'\033[34m  Majors: {database[id][5]}  \033[m')
         print('[0] +1 Win')
         print('[1] +1 Lose')
         print('[2] Special Event')
-        print('\033[31m[3+] to cancel\033[m')
+        print('\033[31m[3+] to cancel/confirm\033[m')
         option = int(input(': '))
         if option == 0:
             database[id][1] = int(database[id][1])+1
         elif option == 1:
-            pass
+            database[id][3] = int(database[id][3])+1
         elif option == 2:
             pass
         else:

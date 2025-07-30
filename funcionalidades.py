@@ -17,6 +17,7 @@ def interface(database):
             sincronizar_database(database)
         elif option == '2':
             menu_modf(database)
+            sincronizar_database(database)
         elif option == '3':
             visualizar(database)
             excluir(database)
@@ -41,9 +42,9 @@ def registrar(database):
     while True:
         temp = []
         index = len(database)
-        print('\033[31mSe desejar cancelar, digite "999" no nome do time\033[m')
+        print('\033[31mSe desejar cancelar, digite "000" no nome do time\033[m')
         team = input('Team: ')
-        if team == '999':
+        if team == '000':
             return
         team_w = int(input('Wins: '))
         team_s = int(input('Streak: '))
@@ -58,9 +59,9 @@ def registrar(database):
 
 
 def excluir(database):
-    print('\033[31mDigite 9999 para cancelar\033[m')
+    print('\033[31mDigite 000 para cancelar\033[m')
     id = int(input('Digite o ID do time que deseja excluir: '))
-    if id == 999:
+    if id == 000:
         return
     for item in range(len(database)):
         if item >= id:
