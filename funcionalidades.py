@@ -6,19 +6,19 @@ def interface(database):
         print('\033[32m[0] - Visualizar Times\033[m')
         print('\033[32m[1] - Registrar Novo Time\033[m')
         print('\033[31m[2] - Atualizar Time\033[m')
-        print('\033[31m[3] - Excluir Time\033[m')
+        print('\033[33m[3] - Excluir Time\033[m')
         print('\033[32m[4] - Sair\033[m')
         option = input(': ')
         if option == '0':
             visualizar(database)
         elif option == '1':
             registrar(database)
-            dados_brutos = atualizar_banco(database)
-            write('database.txt', dados_brutos)
+            sincronizar_database(database)
         elif option == '2':
             pass
         elif option == '3':
-            pass
+            excluir(database)
+            sincronizar_database(database)
         elif option == '4':
             break
         else:
@@ -53,3 +53,21 @@ def registrar(database):
             temp = [team, team_w, team_s, team_l, team_p, team_m]
             database[index] = temp.copy()
             return
+
+
+def excluir(database):
+    print('Digite 9999 para cancelar')
+    id = int(input('Digite o ID do time que deseja excluir: '))
+    if id == 999:
+        return
+    for item in range(len(database)):
+        if item >= id:
+            if item == len(database)-1:
+                del database[item]
+            else:
+                database[item] = database[item+1]
+
+
+def sincronizar_database(database):
+    dados_brutos = atualizar_banco(database)
+    write('database.txt', dados_brutos)
