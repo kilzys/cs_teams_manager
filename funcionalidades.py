@@ -39,7 +39,10 @@ def registrar(database):
     while True:
         temp = []
         index = len(database)
+        print('Se desejar cancelar, digite "999" no nome do time')
         team = input('Team: ')
+        if team == '999':
+            return
         team_w = input('Wins: ')
         team_s = input('Streak: ')
         team_l = input('Loses: ')
