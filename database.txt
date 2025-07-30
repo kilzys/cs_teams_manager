@@ -14,3 +14,4 @@ Copenhagen Wolves,0,0,0,0,0
 Copenhagen Flames,0,0,0,0,0
 NIP,0,0,0,0,0
 TYLOO,0,0,0,0,0
+Outsiders,0,0,0,0,0
