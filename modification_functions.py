@@ -36,7 +36,7 @@ def menu_sincronizar(id, database):
         print('\033[31m[3+] to cancel\033[m')
         option = int(input(': '))
         if option == 0:
-            database[id][1] += 1
+            database[id][1] = int(database[id][1])+1
         elif option == 1:
             pass
         elif option == 2:
