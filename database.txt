@@ -9,9 +9,9 @@ Imperial,0,0,0,0,0
 Spirit,0,0,0,0,0
 BC.Game,0,0,0,0,0
 Astana Dragons,0,0,0,0,0
-Astana Dragons,0,0,0,0,0
 Copenhagen Wolves,0,0,0,0,0
 Copenhagen Flames,0,0,0,0,0
-NIP,0,0,0,0,0
 TYLOO,0,0,0,0,0
 Outsiders,0,0,0,0,0
+Heroic,0,0,0,0,0
+Dignitas,0,0,0,0,0
