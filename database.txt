@@ -1,10 +1,10 @@
-Vitality,0,1,1,0,0
-Falcons,0,1,2,0,0
-Furia,1,2,0,0,0
-FaZe,2,0,1,0,2
+Vitality,0,0,0,0,0
+Falcons,0,0,0,0,0
+Furia,0,0,0,0,0
+FaZe,0,0,0,0,0
 Liquid,0,0,0,0,0
-Iluminar Gaming,0,0,0,20,3
-NAVI,0,2,3,1,2
-Imperial,0,20,0,1,2
+Iluminar Gaming,0,0,0,0,0
+NAVI,0,0,0,0,0
+Imperial,0,0,0,0,0
 Spirit,0,0,0,0,0
 BC.Game,0,0,0,0,0

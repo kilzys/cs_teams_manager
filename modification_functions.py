@@ -3,14 +3,16 @@ def menu_modf(database):
         visualizar(database)
         print('\033[35m[0] - Dev Modifications\033[m')
         print('\033[33m[1] - Atualizar Time\033[m')
-        print('\033[32m[2+] - Cancelar\033[m')
+        print('\033[32m[2+] - Cancelar/Finalizar\033[m')
         option = int(input(': '))
-        if option > 1:
-            return
-        elif option == 0:
+        if option == 0:
             dev_function(database)
         elif option == 1:
             update_time(database)
+        elif option == 9991:
+            zerar_banco(database)
+        else:
+            return
 
 
 def update_time(database):
@@ -91,3 +93,10 @@ def dev_function(database):
             database[id][option] = new_info
         else:
             print('\033[31mCancelando a mudança...\033[m')
+
+
+def zerar_banco(database):
+    for time in database:
+        team_name = database[time][0]
+        database[time] = [team_name,0,0,0,0,0]
+    print('\033[41mFunção de admin utilizada, banco de dados zerado para todos os times existente.\033[m')
