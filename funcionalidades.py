@@ -9,7 +9,6 @@ def interface(database):
         print('\033[33m[2] - Atualizar Time\033[m')
         print('\033[32m[3] - Excluir Time\033[m')
         print('\033[32m[4] - Sair\033[m')
-        print('\033[32m[5] - Forçar Save\033[m')
         option = input(': ')
         if option == '0':
             visualizar(database)
@@ -25,8 +24,6 @@ def interface(database):
             sincronizar_database(database)
         elif option == '4':
             break
-        elif option == '5':
-            sincronizar_database(database)
         else:
             print('\033[31mOpção indisponível\033[m')
 
