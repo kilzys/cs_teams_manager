@@ -3,5 +3,5 @@ from db_manipulation import *
 from funcionalidades import *
 
 # Team - Wins - Streak - Loses - Majors
-database = obter_banco('database.txt')  
+database = obter_banco('database.txt')
 interface(database)
