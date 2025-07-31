@@ -7,8 +7,5 @@ database = obter_banco('database.txt')
 interface(database)
 
 '''
-Colocar as funções de sincronização com o banco de dados na parte de Atualizar Time, pois está dando conflito por não estar atualizando em tempo real de execução.
-
-# DICA PARA TESTE DE EXECUÇÃO PLENA:
-Registrar uma playoff teste de major
+Atribuir uma opção de geração de arquivo excel para tratamento de dados
 '''
