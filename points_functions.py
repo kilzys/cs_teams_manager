@@ -5,7 +5,7 @@ def points(database, id, win=False):
         points += streak+8
         database[id][2] = streak+1
     else:
-        points -= 5
+        points += -5
         database[id][2] = 0
     database[id][4] = points
     

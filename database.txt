@@ -1,9 +1,9 @@
 Falcons,0,0,0,0,0
 Furia,0,0,0,0,0
-FaZe,0,0,0,0,0
+FaZe,3,0,2,25,0
 Liquid,0,0,0,0,0
 Iluminar Gaming,0,0,0,0,0
-NAVI,0,0,0,0,0
+NAVI,1,0,2,3,0
 Imperial,0,0,0,0,0
 Spirit,0,0,0,0,0
 BC.Game,0,0,0,0,0
@@ -13,8 +13,10 @@ Copenhagen Flames,0,0,0,0,0
 TYLOO,0,0,0,0,0
 Outsiders,0,0,0,0,0
 Heroic,0,0,0,0,0
-Dignitas,0,0,0,0,0
-iBUYPOWER,0,0,0,0,0
-Fnatic,0,0,0,0,0
+Dignitas,0,0,2,-5,0
+iBUYPOWER,3,0,2,25,0
+Fnatic,7,5,2,77,1
 Vitality,0,0,0,0,0
-SK Gaming,0,0,0,0,0
+SK Gaming,0,0,2,-5,0
+mousesports,4,0,4,27,0
+Ninjas in Pyjamas,0,0,2,-5,0

@@ -1,4 +1,6 @@
 from points_functions import *
+from files_functions import write
+from db_manipulation import atualizar_banco
 
 def menu_modf(database):
     while True:
@@ -9,10 +11,13 @@ def menu_modf(database):
         option = int(input(': '))
         if option == 0:
             dev_function(database)
+            sincronizar(database)
         elif option == 1:
             update_time(database)
+            sincronizar(database)
         elif option == 9991:
             zerar_banco(database)
+            sincronizar(database)
         else:
             return
 
@@ -122,3 +127,8 @@ def special_interface():
         return option
     else:
         return 'null'
+    
+
+def sincronizar(database):
+    dados_brutos = atualizar_banco(database)
+    write('database.txt', dados_brutos)
