@@ -1,10 +1,11 @@
 from points_functions import *
 from files_functions import write
 from db_manipulation import atualizar_banco
+from external_functions import exibir_teams
 
 def menu_modf(database):
     while True:
-        visualizar(database)
+        exibir_teams(database)
         print('\033[35m[0] - Dev Modifications\033[m')
         print('\033[33m[1] - Atualizar Time\033[m')
         print('\033[32m[2+] - Cancelar/Finalizar\033[m')
@@ -74,7 +75,7 @@ def visualizar(database):
 
 
 def dev_function(database):
-    visualizar(database)
+    exibir_teams(database)
     id = int(input('Team ID: '))
     while True:
         print(f'\033[34m[0] - {database[id][0]}  \033[m')

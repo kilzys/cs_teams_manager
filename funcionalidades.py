@@ -1,6 +1,7 @@
 from db_manipulation import atualizar_banco
 from files_functions import write
 from modification_functions import *
+from external_functions import exibir_teams
 
 def interface(database):
     while True:
@@ -11,7 +12,7 @@ def interface(database):
         print('\033[32m[4] - Sair\033[m')
         option = input(': ')
         if option == '0':
-            visualizar(database)
+            exibir_teams(database)
         elif option == '1':
             registrar(database)
             sincronizar_database(database)
@@ -19,7 +20,7 @@ def interface(database):
             menu_modf(database)
             sincronizar_database(database)
         elif option == '3':
-            visualizar(database)
+            exibir_teams(database)
             excluir(database)
             sincronizar_database(database)
         elif option == '4':
