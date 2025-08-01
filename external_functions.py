@@ -13,7 +13,6 @@ def criarExcel(database):
                          'Loses': values[4],
                          'Points': values[5],
                          'Majors': values[6]})
-    print(file)
     file.to_excel('hltv.xlsx', 'teams_database')
 
 

@@ -20,4 +20,4 @@ Vitality,0,0,0,0,0
 SK Gaming,0,0,2,-5,0
 mousesports,4,0,4,27,0
 Ninjas in Pyjamas,0,0,2,-5,0
-The MongolZ,0,0,0,0,0
+The MongolZ,2,0,1,22,0
