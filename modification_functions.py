@@ -64,14 +64,15 @@ def menu_sincronizar(id, database):
             return
 
 
-def visualizar(database):
+# FUNÇÃO AGORA OBSOLETA
+'''def visualizar(database):
     index = 0
     for team in database:
         if index == 0 or index%2 == 0:
             print(f'\033[47m ID: {team} | Team: {database[team][0]}| Wins: {database[team][1]} | Streak: {database[team][2]} | Loses: {database[team][3]} | Points: {database[team][4]} | Majors: {database[team][5]} \033[m')
         else:
             print(f'\033[1;30m ID: {team} | Team: {database[team][0]}| Wins: {database[team][1]} | Streak: {database[team][2]} | Loses: {database[team][3]} | Points: {database[team][4]} | Majors: {database[team][5]} \033[m')
-        index+=1
+        index+=1'''
 
 
 def dev_function(database):

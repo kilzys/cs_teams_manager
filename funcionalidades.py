@@ -29,7 +29,8 @@ def interface(database):
             print('\033[31mOpção indisponível\033[m')
 
 
-def visualizar(database):
+# FUNÇÃO AGORA OBSOLETA
+"""def visualizar(database):
     index = 0
     for team in database:
         if index == 0 or index%2 == 0:
@@ -37,6 +38,7 @@ def visualizar(database):
         else:
             print(f'\033[1;30m ID: {team} | Team: {database[team][0]}| Wins: {database[team][1]} | Streak: {database[team][2]} | Loses: {database[team][3]} | Points: {database[team][4]} | Majors: {database[team][5]} \033[m')
         index+=1
+"""
 
 
 def registrar(database):

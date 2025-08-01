@@ -5,7 +5,7 @@ from external_functions import *
 
 database = obter_banco('database.txt')
 interface(database)
-# criarExcel(database)
+criarExcel(database)
 
 
 '''

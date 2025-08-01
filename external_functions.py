@@ -3,13 +3,18 @@ import openpyxl
 
 def criarExcel(database):
     values = separar_planilha(database)
-    file = pd.DataFrame({'Team': values[1],
+    ranking = []
+    for items in values[0]:
+        ranking.append(items+1)
+    file = pd.DataFrame({'Ranking': ranking,
+                        'Team': values[1],
                          'Wins': values[2],
                          'Streak': values[3],
                          'Loses': values[4],
                          'Points': values[5],
                          'Majors': values[6]})
     print(file)
+    file.to_excel('hltv.xlsx', 'teams_database')
 
 
 def exibir_teams(database):
