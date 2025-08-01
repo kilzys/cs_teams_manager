@@ -24,6 +24,13 @@ def exibir_teams(database):
                          'Loses': values[4],
                          'Points': values[5],
                          'Majors': values[6]})
+    
+    # Comandos para exibir a tabela inteira de dados
+    pd.set_option('display.max_rows', None)
+    pd.set_option('display.max_columns', None)
+    pd.set_option('display.width', None)
+    pd.set_option('display.max_colwidth', None)
+
     print(file)
 
 
