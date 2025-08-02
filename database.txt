@@ -75,7 +75,7 @@ PARIVISION,1,1,0,8,0
 Lynn Vision,0,0,1,-5,0
 VP.Prodigy,1,1,0,8,0
 TALON,1,1,0,8,0
-Arcade,0,0,0,0,0
+Arcade,0,0,1,-5,0
 NAVI Junior,1,1,0,8,0
 BC.Game,0,0,1,-5,0
 Vantage,0,0,1,-5,0
@@ -85,7 +85,7 @@ Outsiders,0,0,1,-5,0
 Chinggis Warrios,1,1,0,8,0
 ATOX,0,0,1,-5,0
 IHC,0,0,1,-5,0
-MenaceGG,0,0,0,0,0
+MenaceGG,1,1,0,8,0
 The Dice,0,0,0,0,0
 ad hoc,0,0,0,0,0
 Aravt,1,1,0,8,0
