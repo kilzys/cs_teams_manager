@@ -33,7 +33,7 @@ Iluminar,1,1,0,8,0
 Falcons,0,0,1,-5,0
 Sangal,0,0,1,-5,0
 ShindeN,1,1,0,8,0
-SAW,0,0,0,0,0
+SAW,0,0,1,-5,0
 Nexus,1,1,0,8,0
 9Pandas,0,0,1,-5,0
 Passion UA,0,0,1,-5,0
@@ -106,7 +106,7 @@ devils.one,0,0,1,-5,0
 LCDC,0,0,1,-5,0
 Enemy,0,0,1,-5,0
 Titan,1,1,0,8,0
-hoorai,0,0,0,0,0
+hoorai,1,1,0,8,0
 GODSENT,1,1,0,8,0
 Verdant,1,1,0,8,0
 Kappa Bar,0,0,1,-5,0
