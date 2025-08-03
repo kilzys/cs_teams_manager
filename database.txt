@@ -19,7 +19,7 @@ paiN,0,0,1,-5,0
 Imperial,0,0,1,-5,0
 Virtus.pro,1,1,0,8,0
 Spirit,1,1,0,8,0
-Entropiq,0,0,0,0,0
+Entropiq,1,1,0,8,0
 Copenhagen Flames,1,1,0,8,0
 Envy,0,0,1,-5,0
 iBUYPOWER,1,1,0,8,0
@@ -99,7 +99,7 @@ Red Viperz,0,0,1,-5,0
 Victores Sumus,0,0,1,-5,0
 Onyx Ravens,1,1,0,8,0
 Skinvault,0,0,1,-6,0
-Reason Gaming,0,0,0,0,0
+Reason Gaming,0,0,1,-5,0
 Bad News Eagles,1,1,0,8,0
 Wizards,1,1,0,8,0
 devils.one,0,0,1,-5,0
