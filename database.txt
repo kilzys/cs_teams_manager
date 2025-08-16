@@ -9,7 +9,7 @@ BIG,0,0,1,-5,0
 ENCE,1,1,0,8,0
 Ninjas in Pyjamas,0,0,1,-5,0
 FURIA,0,0,1,-5,0
-Legacy,1,1,0,8,0
+Legacy,2,0,2,7,0
 MIBR,1,1,0,8,0
 Natus Vincere,1,1,0,8,0
 MOUZ,0,0,1,-5,0
@@ -45,11 +45,11 @@ Eternal Fire,1,1,0,8,0
 3DMAX,0,0,1,-5,0
 Aurora,0,0,1,-5,0
 Complexity,0,0,1,-5,0
-M80,1,1,0,8,0
+M80,3,3,0,27,0
 Wildcard,1,1,0,8,0
 BESTIA,1,1,0,8,0
 ECSTATIC,1,1,0,8,0
-RED Canids,1,1,0,8,0
+RED Canids,3,3,0,27,0
 Case,0,0,1,-5,0
 KRU,0,0,1,-5,0
 Elevate,1,1,0,8,0
@@ -69,7 +69,7 @@ Bounty Hunters,1,1,0,8,0
 Galorys,0,0,1,-5,0
 Spirit Academy,1,1,0,8,0
 Tricked,0,0,1,-5,0
-The MongolZ,0,0,0,0,0
+The MongolZ,1,1,0,8,0
 FlyQuest,0,0,1,-5,0
 PARIVISION,1,1,0,8,0
 Lynn Vision,0,0,1,-5,0
@@ -87,7 +87,7 @@ ATOX,0,0,1,-5,0
 IHC,0,0,1,-5,0
 MenaceGG,1,1,0,8,0
 The Dice,0,0,0,0,0
-ad hoc,0,0,0,0,0
+ad hoc,0,0,1,-5,0
 Aravt,1,1,0,8,0
 Gods Reign,1,0,0,-5,0
 True Rippers,1,1,0,8,0
@@ -98,17 +98,17 @@ Nemiga,1,1,0,8,0
 Red Viperz,0,0,1,-5,0
 Victores Sumus,0,0,1,-5,0
 Onyx Ravens,1,1,0,8,0
-Skinvault,0,0,1,-6,0
+Skinvault,0,0,1,-5,0
 Reason Gaming,0,0,1,-5,0
 Bad News Eagles,1,1,0,8,0
-Wizards,1,1,0,8,0
+Wizards,1,0,2,-2,0
 devils.one,0,0,1,-5,0
 LCDC,0,0,1,-5,0
 Enemy,0,0,1,-5,0
-Titan,1,1,0,8,0
+Titan,3,2,1,20,0
 hoorai,1,1,0,8,0
 GODSENT,1,1,0,8,0
-Verdant,1,1,0,8,0
+Verdant,1,0,2,-2,0
 Kappa Bar,0,0,1,-5,0
 MAD Lions,0,0,0,0,0
 Copenhagen Wolves,0,0,0,0,0
