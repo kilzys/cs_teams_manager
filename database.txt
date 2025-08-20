@@ -29,7 +29,7 @@ Cloud9,1,1,0,8,0
 SK,1,1,0,8,0
 Luminosity,0,0,1,-5,0
 Vexed,0,0,1,-5,0
-Iluminar,5,4,1,41,0
+Iluminar,7,6,1,66,0
 Falcons,0,0,1,-5,0
 Sangal,0,0,1,-5,0
 ShindeN,1,1,0,8,0
@@ -49,7 +49,7 @@ M80,3,0,4,7,0
 Wildcard,1,1,0,8,0
 BESTIA,1,1,0,8,0
 ECSTATIC,1,1,0,8,0
-RED Canids,5,2,2,34,0
+RED Canids,5,0,4,24,0
 Case,0,0,1,-5,0
 KRU,0,0,1,-5,0
 Elevate,1,1,0,8,0
@@ -105,10 +105,10 @@ Wizards,3,0,5,-1,0
 devils.one,0,0,1,-5,0
 LCDC,0,0,1,-5,0
 Enemy,0,0,1,-5,0
-Titan,5,4,1,41,0
+Titan,5,0,3,31,0
 hoorai,1,1,0,8,0
 GODSENT,1,1,0,8,0
-Verdant,5,4,3,31,0
+Verdant,7,6,3,56,0
 Kappa Bar,0,0,1,-5,0
 MAD Lions,0,0,0,0,0
 Copenhagen Wolves,0,0,0,0,0
