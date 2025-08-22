@@ -1,6 +1,6 @@
 Vitality,1,1,0,8,0
 Astralis,1,1,0,8,0
-Liquid,1,1,0,8,0
+Liquid,3,2,1,20,0
 Mythic,0,0,1,-5,0
 Heroic,1,1,0,8,0
 Fnatic,0,0,0,0,0
@@ -48,11 +48,11 @@ Complexity,0,0,1,-5,0
 M80,3,0,4,7,0
 Wildcard,1,1,0,8,0
 BESTIA,1,1,0,8,0
-ECSTATIC,1,1,0,8,0
+ECSTATIC,2,0,2,6,0
 RED Canids,5,0,4,24,0
 Case,0,0,1,-5,0
 KRU,0,0,1,-5,0
-Elevate,1,1,0,8,0
+Elevate,3,1,1,20,0
 GamerLegion,0,0,1,-5,0
 Underground,0,0,0,0,0
 9z,0,0,1,-5,0
