@@ -1,6 +1,6 @@
 Vitality,1,1,0,8,0
 Astralis,1,1,0,8,0
-Liquid,3,2,1,20,0
+Liquid,5,1,2,33,0
 Mythic,0,0,1,-5,0
 Heroic,1,1,0,8,0
 Fnatic,0,0,0,0,0
@@ -26,7 +26,7 @@ iBUYPOWER,1,1,0,8,0
 Evil Geniuses,0,0,1,-5,0
 Dignitas,0,0,1,-5,0
 Cloud9,1,1,0,8,0
-SK,1,1,0,8,0
+SK,2,0,2,7,0
 Luminosity,0,0,1,-5,0
 Vexed,0,0,1,-5,0
 Iluminar,7,6,1,66,0
@@ -52,7 +52,7 @@ ECSTATIC,2,0,2,6,0
 RED Canids,5,0,4,24,0
 Case,0,0,1,-5,0
 KRU,0,0,1,-5,0
-Elevate,3,1,1,20,0
+Elevate,4,0,3,18,0
 GamerLegion,0,0,1,-5,0
 Underground,0,0,0,0,0
 9z,0,0,1,-5,0
@@ -107,7 +107,7 @@ LCDC,0,0,1,-5,0
 Enemy,0,0,1,-5,0
 Titan,5,0,3,31,0
 hoorai,1,1,0,8,0
-GODSENT,1,1,0,8,0
+GODSENT,3,2,1,20,0
 Verdant,7,6,3,56,0
 Kappa Bar,0,0,1,-5,0
 MAD Lions,0,0,0,0,0
