@@ -48,7 +48,7 @@ Complexity,0,0,1,-5,0
 M80,3,0,4,7,0
 Wildcard,1,1,0,8,0
 BESTIA,1,1,0,8,0
-ECSTATIC,2,0,2,6,0
+ECSTATIC,2,0,4,-4,0
 RED Canids,5,0,4,24,0
 Case,0,0,1,-5,0
 KRU,0,0,1,-5,0
@@ -56,7 +56,7 @@ Elevate,4,0,3,18,0
 GamerLegion,0,0,1,-5,0
 Underground,0,0,0,0,0
 9z,0,0,1,-5,0
-Orbit,2,0,2,7,0
+Orbit,4,2,2,24,0
 Limitless,0,0,1,-5,0
 Homyno,1,1,0,8,0
 Take Flyte,1,1,0,8,0
@@ -65,7 +65,7 @@ Sharks,0,0,1,-5,0
 ODDIK,0,0,1,-5,0
 inSanitY,0,0,1,-5,0
 Team Solid,1,1,0,8,0
-Bounty Hunters,3,3,0,27,0
+Bounty Hunters,5,5,0,50,0
 Galorys,0,0,1,-5,0
 Spirit Academy,1,1,0,8,0
 Tricked,0,0,1,-5,0
@@ -107,7 +107,7 @@ LCDC,0,0,1,-5,0
 Enemy,0,0,1,-5,0
 Titan,5,0,3,31,0
 hoorai,1,1,0,8,0
-GODSENT,3,2,1,20,0
+GODSENT,3,0,3,10,0
 Verdant,7,6,3,56,0
 Kappa Bar,0,0,1,-5,0
 MAD Lions,0,0,0,0,0
