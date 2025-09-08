@@ -10,7 +10,7 @@ ENCE,1,1,0,8,0
 Ninjas in Pyjamas,0,0,1,-5,0
 FURIA,0,0,1,-5,0
 Legacy,3,0,4,5,0
-MIBR,3,1,3,9,0
+MIBR,4,0,5,8,0
 Natus Vincere,1,1,0,8,0
 MOUZ,0,0,1,-5,0
 G2,1,1,0,8,0
@@ -52,7 +52,7 @@ ECSTATIC,2,0,4,-4,0
 RED Canids,5,0,4,24,0
 Case,0,0,1,-5,0
 KRU,0,0,1,-5,0
-Elevate,4,0,3,18,0
+Elevate,6,2,4,30,0
 GamerLegion,0,0,1,-5,0
 Underground,0,0,0,0,0
 9z,0,0,1,-5,0
