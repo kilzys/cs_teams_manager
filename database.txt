@@ -1,7 +1,7 @@
 Vitality,0,0,0,0,0
 Astralis,0,0,0,0,0
-Liquid,0,0,0,0,0
-Mythic,0,0,0,0,0
+Liquid,5,1,2,33,0
+Mythic,0,0,1,-5,0
 Heroic,0,0,0,0,0
 Fnatic,0,0,0,0,0
 FaZe,0,0,0,0,0
@@ -10,7 +10,7 @@ ENCE,0,0,0,0,0
 Ninjas in Pyjamas,0,0,0,0,0
 FURIA,0,0,1,-5,0
 Legacy,3,0,4,5,0
-MIBR,0,0,0,0,0
+MIBR,4,0,5,8,0
 Natus Vincere,0,0,0,0,0
 MOUZ,0,0,0,0,0
 G2,0,0,0,0,0
@@ -26,8 +26,8 @@ iBUYPOWER,0,0,0,0,0
 Evil Geniuses,0,0,0,0,0
 Dignitas,0,0,0,0,0
 Cloud9,0,0,0,0,0
-SK,0,0,0,0,0
-Luminosity,0,0,0,0,0
+SK,3,0,4,5,0
+Luminosity,0,0,1,-5,0
 Vexed,0,0,1,-5,0
 Iluminar,7,6,1,66,0
 Falcons,0,0,0,0,0
@@ -44,13 +44,13 @@ Rebels,0,0,0,0,0
 Eternal Fire,0,0,0,0,0
 3DMAX,0,0,0,0,0
 Aurora,0,0,0,0,0
-Complexity,0,0,0,0,0
-M80,0,0,0,0,0
+Complexity,0,0,1,-5,0
+M80,3,0,4,7,0
 Wildcard,0,0,0,0,0
 BESTIA,0,0,0,0,0
-ECSTATIC,0,0,0,0,0
-RED Canids,0,0,0,0,0
-Case,0,0,0,0,0
+ECSTATIC,2,0,4,-4,0
+RED Canids,5,0,4,24,0
+Case,0,0,1,-5,0
 KRU,0,0,1,-5,0
 Elevate,6,2,4,30,0
 GamerLegion,0,0,0,0,0
@@ -61,11 +61,11 @@ Limitless,0,0,0,0,0
 Homyno,0,0,0,0,0
 Take Flyte,0,0,0,0,0
 The Huns,0,0,1,-5,0
-Sharks,0,0,0,0,0
+Sharks,0,0,1,-5,0
 ODDIK,0,0,0,0,0
 inSanitY,0,0,0,0,0
 Team Solid,0,0,0,0,0
-Bounty Hunters,0,0,0,0,0
+Bounty Hunters,5,5,0,50,0
 Galorys,0,0,0,0,0
 Spirit Academy,0,0,0,0,0
 Tricked,0,0,0,0,0
@@ -84,7 +84,7 @@ CatEvil,0,0,0,0,0
 Outsiders,0,0,0,0,0
 Chinggis Warrios,0,0,0,0,0
 ATOX,0,0,0,0,0
-IHC,0,0,0,0,0
+IHC,0,0,1,-5,0
 MenaceGG,0,0,0,0,0
 The Dice,0,0,0,0,0
 ad hoc,0,0,0,0,0
@@ -102,14 +102,14 @@ Skinvault,0,0,0,0,0
 Reason Gaming,0,0,0,0,0
 Bad News Eagles,3,0,4,5,0
 Wizards,3,0,5,-1,0
-devils.one,0,0,0,0,0
+devils.one,0,0,1,-5,0
 LCDC,0,0,0,0,0
-Enemy,0,0,0,0,0
-Titan,0,0,0,0,0
+Enemy,0,0,1,-5,0
+Titan,5,0,3,31,0
 hoorai,0,0,0,0,0
-GODSENT,0,0,0,0,0
+GODSENT,3,0,5,0,0
 Verdant,7,6,3,56,0
-Kappa Bar,0,0,0,0,0
+Kappa Bar,0,0,1,-5,0
 MAD Lions,0,0,0,0,0
 Copenhagen Wolves,0,0,0,0,0
 Astana Dragons,0,0,0,0,0
