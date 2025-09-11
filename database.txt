@@ -75,7 +75,7 @@ PARIVISION,1,1,0,8,0
 Lynn Vision,0,0,1,-5,0
 VP.Prodigy,1,1,0,8,0
 TALON,1,1,0,8,0
-Arcade,0,0,1,-5,0
+NomadS,0,0,1,-5,0
 NAVI Junior,1,1,0,8,0
 BC.Game,0,0,1,-5,0
 Vantage,0,0,1,-5,0
@@ -117,7 +117,7 @@ VeryGames,0,0,0,0,0
 mousesports,0,0,0,0,0
 Vox Eminor,0,0,0,0,0
 LGB eSports,0,0,0,0,0
-Epsilon,0,0,1,-5,0
+Venom,0,0,1,-5,0
 ESC,0,0,0,0,0
 Bravado,0,0,0,0,0
 Team Kinguin,0,0,0,0,0
