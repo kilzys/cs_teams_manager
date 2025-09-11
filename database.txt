@@ -17,8 +17,8 @@ G2,1,1,0,8,0
 OG,1,1,0,8,0
 paiN,0,0,1,-5,0
 Imperial,0,0,1,-5,0
-Virtus.pro,0,0,0,0,0
-Spirit,0,0,0,0,0
+Virtus.pro,1,1,0,8,0
+Spirit,1,1,0,8,0
 Entropiq,0,0,0,0,0
 Copenhagen Flames,1,1,0,8,0
 Envy,0,0,1,-5,0
@@ -59,7 +59,7 @@ Underground,0,0,0,0,0
 Orbit,6,4,2,45,0
 Limitless,0,0,1,-5,0
 Homyno,0,0,0,0,0
-Take Flyte,0,0,0,0,0
+Take Flyte,1,1,0,8,0
 The Huns,0,0,1,-5,0
 Sharks,0,0,1,-5,0
 ODDIK,0,0,0,0,0
@@ -67,22 +67,22 @@ inSanitY,0,0,0,0,0
 Team Solid,0,0,0,0,0
 Bounty Hunters,5,5,0,50,0
 Galorys,0,0,1,-5,0
-Spirit Academy,0,0,0,0,0
+Spirit Academy,1,1,0,8,0
 Tricked,0,0,0,0,0
 The MongolZ,0,0,0,0,0
 FlyQuest,0,0,1,-5,0
-PARIVISION,0,0,0,0,0
+PARIVISION,1,1,0,8,0
 Lynn Vision,0,0,0,0,0
 VP.Prodigy,0,0,0,0,0
-TALON,0,0,0,0,0
+TALON,1,1,0,8,0
 Arcade,0,0,0,0,0
-NAVI Junior,0,0,0,0,0
+NAVI Junior,1,1,0,8,0
 BC.Game,0,0,0,0,0
 Vantage,0,0,0,0,0
 TYLOO,0,0,0,0,0
 CatEvil,0,0,0,0,0
 Outsiders,0,0,0,0,0
-Chinggis Warrios,0,0,0,0,0
+Chinggis Warrios,1,1,0,8,0
 ATOX,0,0,0,0,0
 IHC,0,0,1,-5,0
 MenaceGG,0,0,0,0,0
@@ -91,10 +91,10 @@ ad hoc,0,0,0,0,0
 Aravt,0,0,0,0,0
 Gods Reign,0,0,0,0,0
 True Rippers,0,0,0,0,0
-Alliance,0,0,0,0,0
+Alliance,1,1,0,8,0
 Carnival,0,0,0,0,0
 Wings Up,0,0,0,0,0
-Nemiga,0,0,0,0,0
+Nemiga,1,1,0,8,0
 Red Viperz,0,0,0,0,0
 Victores Sumus,0,0,0,0,0
 Onyx Ravens,0,0,0,0,0
