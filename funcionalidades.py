@@ -18,25 +18,26 @@ def interface(database):
         print('\033[32m[3] - Excluir Time\033[m')
         print('\033[32m[4] - Sair\033[m')
         option = input(': ')
-        if option == '0':
-            exibir_teams(database)
-        elif option == '1':
-            registrar(database)
-            sincronizar_database(database)
-        elif option == '2':
-            # Chama uma outra parte de interface, já voltada exclusivamente para alterações de times, tanto como dev quanto como usuário
-            menu_modf(database)
-            sincronizar_database(database)
-        elif option == '3':
-            # Primeiro ele exibe os times, para selecionar qual será excluído
-            exibir_teams(database)
-            excluir(database)
-            sincronizar_database(database)
-        elif option == '4':
-            break
-        else:
-            # Em caso de outra opção selecionada
-            print('\033[31mOpção indisponível\033[m')
+        match option:
+            case '0':
+                exibir_teams(database)
+            case '1':
+                registrar(database)
+                sincronizar_database(database)
+            case '2':
+                # Chama uma outra parte de interface, já voltada exclusivamente para alterações de times, tanto como dev quanto como usuário
+                menu_modf(database)
+                sincronizar_database(database)
+            case '3':
+                # Primeiro ele exibe os times, para selecionar qual será excluído
+                exibir_teams(database)
+                excluir(database)
+                sincronizar_database(database)
+            case '4':
+                break
+            case _:
+                # Em caso de outra opção selecionada
+                print('\033[31mOpção indisponível\033[m')
 
 
 # Antiga função de visualizar os times disponíveis/registrados no arquivo/sistema; porém, após a última atualização, uma nova funcionalidade de exibição foi criada, uma bem mais intuitiva e clara, rapidamente tomando o lugar dessa antiga função, agora obsoleta. Ela está aqui para possível aprimoração futura, visto que ela possui uma funcionalidade interessante que a nova não tem, a possiblidade de cores de fundo diversas a cada linha, colaborando para a visualização de diversos dados.

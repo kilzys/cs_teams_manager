@@ -16,17 +16,18 @@ def menu_modf(database):
         print('\033[33m[1] - Atualizar Time\033[m')
         print('\033[32m[2+] - Cancelar/Finalizar\033[m')
         option = int(input(': '))
-        if option == 0:
-            dev_function(database)
-            sincronizar(database)
-        elif option == 1:
-            update_time(database)
-            sincronizar(database)
-        elif option == 9991:
-            zerar_banco(database)
-            sincronizar(database)
-        else:
-            return
+        match option:
+            case 0:
+                dev_function(database)
+                sincronizar(database)
+            case 1:
+                update_time(database)
+                sincronizar(database)
+            case 9991:
+                zerar_banco(database)
+                sincronizar(database)
+            case _:
+                return
 
 
 # Função simples, que chama uma outra
@@ -61,21 +62,22 @@ def menu_sincronizar(id, database):
         print('[2] Special Event')
         print('\033[31m[3+] to cancel/confirm\033[m')
         option = int(input(': '))
-        if option == 0:
-            # Envia para a função points o id do time selecionado, com o parâmetro "True" ativada, significando que é de fato uma vitória e não uma derrota. Além disso, aqui mesmo já é puxado as vitórias e somado +1 para ela.
-            database[id][1] = int(database[id][1])+1
-            points(database, id, True)
-        elif option == 1:
-            # Mesmo procedimento realizado acima. A única diferença é que aqui a derrota que é puxada e aumentada em 1, juntamente do parâmetro "false" or "null".
-            database[id][3] = int(database[id][3])+1
-            points(database, id)
-        elif option == 2:
-            # Aqui uma nova função é chamada, responsável pela interface dos pontos especiais. Ele pega o retorno da opção selecionada e chama outra função, que irá atualizar os pontos com base nos parâmetros passados. Valor é o tipo de evento que deve ocorrer. Id é o id do time, e o database é o nome do arquivo
-            valor = special_interface()
-            if valor != 'null':
-                points_especial(database, id, valor)
-        else:
-            return
+        match option:
+            case 0:
+                # Envia para a função points o id do time selecionado, com o parâmetro "True" ativada, significando que é de fato uma vitória e não uma derrota. Além disso, aqui mesmo já é puxado as vitórias e somado +1 para ela.
+                database[id][1] = int(database[id][1])+1
+                points(database, id, True)
+            case 1:
+                # Mesmo procedimento realizado acima. A única diferença é que aqui a derrota que é puxada e aumentada em 1, juntamente do parâmetro "false" or "null".
+                database[id][3] = int(database[id][3])+1
+                points(database, id)
+            case 2:
+                # Aqui uma nova função é chamada, responsável pela interface dos pontos especiais. Ele pega o retorno da opção selecionada e chama outra função, que irá atualizar os pontos com base nos parâmetros passados. Valor é o tipo de evento que deve ocorrer. Id é o id do time, e o database é o nome do arquivo
+                valor = special_interface()
+                if valor != 'null':
+                    points_especial(database, id, valor)
+            case _:
+                return
 
 
 # FUNÇÃO AGORA OBSOLETA
@@ -102,6 +104,7 @@ def dev_function(database):
         print(f'\033[34m[5] - Majors: {database[id][5]}  \033[m')
         print('\033[31m[6+] - FINALIZAR\033[m')
         option = int(input(': '))
+        # Não foi atualizado para a formatação *match*, pois possui o *>=*
         if option >= 6:
             return
         elif option == 0:

@@ -1,115 +1,115 @@
-Vitality,1,1,0,8,0
-Astralis,1,1,0,8,0
-Liquid,1,1,0,8,0
-Mythic,0,0,1,-5,0
-Heroic,1,1,0,8,0
+Vitality,0,0,0,0,0
+Astralis,0,0,0,0,0
+Liquid,0,0,0,0,0
+Mythic,0,0,0,0,0
+Heroic,0,0,0,0,0
 Fnatic,0,0,0,0,0
-FaZe,1,1,0,8,0
-BIG,0,0,1,-5,0
-ENCE,1,1,0,8,0
-Ninjas in Pyjamas,0,0,1,-5,0
-FURIA,0,0,1,-5,0
-Legacy,3,0,4,5,0
-MIBR,1,1,0,8,0
-Natus Vincere,1,1,0,8,0
-MOUZ,0,0,1,-5,0
-G2,1,1,0,8,0
-OG,1,1,0,8,0
-paiN,0,0,1,-5,0
-Imperial,0,0,1,-5,0
-Virtus.pro,1,1,0,8,0
-Spirit,1,1,0,8,0
-Entropiq,1,1,0,8,0
-Copenhagen Flames,1,1,0,8,0
-Envy,0,0,1,-5,0
-iBUYPOWER,1,1,0,8,0
-Evil Geniuses,0,0,1,-5,0
-Dignitas,0,0,1,-5,0
-Cloud9,1,1,0,8,0
-SK,1,1,0,8,0
-Luminosity,0,0,1,-5,0
-Vexed,0,0,1,-5,0
-Iluminar,5,4,1,41,0
-Falcons,0,0,1,-5,0
-Sangal,0,0,1,-5,0
-ShindeN,1,1,0,8,0
-SAW,0,0,1,-5,0
-Nexus,1,1,0,8,0
-9Pandas,0,0,1,-5,0
-Passion UA,0,0,1,-5,0
-ARCRED,0,0,1,-5,0
-Qiang,0,0,1,-5,0
-Permitta,1,1,0,8,0
-Rebels,1,1,0,8,0
-Eternal Fire,1,1,0,8,0
-3DMAX,0,0,1,-5,0
-Aurora,0,0,1,-5,0
-Complexity,0,0,1,-5,0
-M80,3,0,4,7,0
-Wildcard,1,1,0,8,0
-BESTIA,1,1,0,8,0
-ECSTATIC,1,1,0,8,0
-RED Canids,5,2,2,34,0
-Case,0,0,1,-5,0
-KRU,0,0,1,-5,0
-Elevate,1,1,0,8,0
-GamerLegion,0,0,1,-5,0
+FaZe,0,0,0,0,0
+BIG,0,0,0,0,0
+ENCE,0,0,0,0,0
+Ninjas in Pyjamas,0,0,0,0,0
+FURIA,0,0,0,0,0
+Legacy,0,0,0,0,0
+MIBR,0,0,0,0,0
+Natus Vincere,0,0,0,0,0
+MOUZ,0,0,0,0,0
+G2,0,0,0,0,0
+OG,0,0,0,0,0
+paiN,0,0,0,0,0
+Imperial,0,0,0,0,0
+Virtus.pro,0,0,0,0,0
+Spirit,0,0,0,0,0
+Entropiq,0,0,0,0,0
+Copenhagen Flames,0,0,0,0,0
+Envy,0,0,0,0,0
+iBUYPOWER,0,0,0,0,0
+Evil Geniuses,0,0,0,0,0
+Dignitas,0,0,0,0,0
+Cloud9,0,0,0,0,0
+SK,0,0,0,0,0
+Luminosity,0,0,0,0,0
+Vexed,0,0,0,0,0
+Iluminar,0,0,0,0,0
+Falcons,0,0,0,0,0
+Sangal,0,0,0,0,0
+ShindeN,0,0,0,0,0
+SAW,0,0,0,0,0
+Nexus,0,0,0,0,0
+9Pandas,0,0,0,0,0
+Passion UA,0,0,0,0,0
+ARCRED,0,0,0,0,0
+Qiang,0,0,0,0,0
+Permitta,0,0,0,0,0
+Rebels,0,0,0,0,0
+Eternal Fire,0,0,0,0,0
+3DMAX,0,0,0,0,0
+Aurora,0,0,0,0,0
+Complexity,0,0,0,0,0
+M80,0,0,0,0,0
+Wildcard,0,0,0,0,0
+BESTIA,0,0,0,0,0
+ECSTATIC,0,0,0,0,0
+RED Canids,0,0,0,0,0
+Case,0,0,0,0,0
+KRU,0,0,0,0,0
+Elevate,0,0,0,0,0
+GamerLegion,0,0,0,0,0
 Underground,0,0,0,0,0
-9z,0,0,1,-5,0
-Orbit,1,1,0,8,0
-Limitless,0,0,1,-5,0
-Homyno,1,1,0,8,0
-Take Flyte,1,1,0,8,0
-The Huns,0,0,1,-5,0
-Sharks,0,0,1,-5,0
-ODDIK,0,0,1,-5,0
-inSanitY,0,0,1,-5,0
-Team Solid,1,1,0,8,0
-Bounty Hunters,1,1,0,8,0
-Galorys,0,0,1,-5,0
-Spirit Academy,1,1,0,8,0
-Tricked,0,0,1,-5,0
-The MongolZ,1,1,0,8,0
-FlyQuest,0,0,1,-5,0
-PARIVISION,1,1,0,8,0
-Lynn Vision,0,0,1,-5,0
-VP.Prodigy,1,1,0,8,0
-TALON,1,1,0,8,0
-Arcade,0,0,1,-5,0
-NAVI Junior,1,1,0,8,0
-BC.Game,0,0,1,-5,0
-Vantage,0,0,1,-5,0
-TYLOO,1,1,0,8,0
-CatEvil,0,0,1,-5,0
-Outsiders,0,0,1,-5,0
-Chinggis Warrios,1,1,0,8,0
-ATOX,0,0,1,-5,0
-IHC,0,0,1,-5,0
-MenaceGG,1,1,0,8,0
+9z,0,0,0,0,0
+Orbit,0,0,0,0,0
+Limitless,0,0,0,0,0
+Homyno,0,0,0,0,0
+Take Flyte,0,0,0,0,0
+The Huns,0,0,0,0,0
+Sharks,0,0,0,0,0
+ODDIK,0,0,0,0,0
+inSanitY,0,0,0,0,0
+Team Solid,0,0,0,0,0
+Bounty Hunters,0,0,0,0,0
+Galorys,0,0,0,0,0
+Spirit Academy,0,0,0,0,0
+Tricked,0,0,0,0,0
+The MongolZ,0,0,0,0,0
+FlyQuest,0,0,0,0,0
+PARIVISION,0,0,0,0,0
+Lynn Vision,0,0,0,0,0
+VP.Prodigy,0,0,0,0,0
+TALON,0,0,0,0,0
+Arcade,0,0,0,0,0
+NAVI Junior,0,0,0,0,0
+BC.Game,0,0,0,0,0
+Vantage,0,0,0,0,0
+TYLOO,0,0,0,0,0
+CatEvil,0,0,0,0,0
+Outsiders,0,0,0,0,0
+Chinggis Warrios,0,0,0,0,0
+ATOX,0,0,0,0,0
+IHC,0,0,0,0,0
+MenaceGG,0,0,0,0,0
 The Dice,0,0,0,0,0
-ad hoc,0,0,1,-5,0
-Aravt,1,1,0,8,0
-Gods Reign,1,0,0,-5,0
-True Rippers,1,1,0,8,0
-Alliance,1,1,0,8,0
-Carnival,0,0,1,-5,0
-Wings Up,0,0,1,-5,0
-Nemiga,1,1,0,8,0
-Red Viperz,0,0,1,-5,0
-Victores Sumus,0,0,1,-5,0
-Onyx Ravens,1,1,0,8,0
-Skinvault,0,0,1,-5,0
-Reason Gaming,0,0,1,-5,0
-Bad News Eagles,3,0,4,5,0
-Wizards,3,0,5,-1,0
-devils.one,0,0,1,-5,0
-LCDC,0,0,1,-5,0
-Enemy,0,0,1,-5,0
-Titan,5,4,1,41,0
-hoorai,1,1,0,8,0
-GODSENT,1,1,0,8,0
-Verdant,5,4,3,31,0
-Kappa Bar,0,0,1,-5,0
+ad hoc,0,0,0,0,0
+Aravt,0,0,0,0,0
+Gods Reign,0,0,0,0,0
+True Rippers,0,0,0,0,0
+Alliance,0,0,0,0,0
+Carnival,0,0,0,0,0
+Wings Up,0,0,0,0,0
+Nemiga,0,0,0,0,0
+Red Viperz,0,0,0,0,0
+Victores Sumus,0,0,0,0,0
+Onyx Ravens,0,0,0,0,0
+Skinvault,0,0,0,0,0
+Reason Gaming,0,0,0,0,0
+Bad News Eagles,0,0,0,0,0
+Wizards,0,0,0,0,0
+devils.one,0,0,0,0,0
+LCDC,0,0,0,0,0
+Enemy,0,0,0,0,0
+Titan,0,0,0,0,0
+hoorai,0,0,0,0,0
+GODSENT,0,0,0,0,0
+Verdant,0,0,0,0,0
+Kappa Bar,0,0,0,0,0
 MAD Lions,0,0,0,0,0
 Copenhagen Wolves,0,0,0,0,0
 Astana Dragons,0,0,0,0,0
@@ -117,7 +117,7 @@ VeryGames,0,0,0,0,0
 mousesports,0,0,0,0,0
 Vox Eminor,0,0,0,0,0
 LGB eSports,0,0,0,0,0
-Epsilon,0,0,1,-5,0
+Epsilon,0,0,0,0,0
 ESC,0,0,0,0,0
 Bravado,0,0,0,0,0
 Team Kinguin,0,0,0,0,0
