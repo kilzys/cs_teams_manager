@@ -52,11 +52,11 @@ ECSTATIC,2,0,4,-4,0
 RED Canids,5,0,4,24,0
 Case,0,0,1,-5,0
 KRU,0,0,1,-5,0
-Elevate,6,2,4,30,0
+Elevate,8,4,4,51,0
 GamerLegion,0,0,1,-5,0
 Underground,1,1,0,8,0
 9z,0,0,1,-5,0
-Orbit,6,4,2,45,0
+Orbit,6,0,4,35,0
 Limitless,0,0,1,-5,0
 Homyno,1,1,0,8,0
 Take Flyte,1,1,0,8,0
