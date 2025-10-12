@@ -1,5 +1,5 @@
 Vitality,5,5,0,50,0
-Astralis,1,0,2,-2,0
+Astralis,1,0,4,-12,0
 Liquid,7,3,2,52,0
 Mythic,0,0,1,-5,0
 Heroic,1,1,0,8,0
@@ -34,7 +34,7 @@ Falcons,0,0,1,-5,0
 Sangal,0,0,1,-5,0
 ShindeN,1,1,0,8,0
 SAW,0,0,1,-5,0
-Nexus,2,0,2,6,0
+Nexus,4,2,2,23,0
 9Pandas,0,0,1,-5,0
 Passion UA,0,0,1,-5,0
 ARCRED,0,0,1,-5,0
