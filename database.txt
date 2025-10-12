@@ -6,7 +6,7 @@ Heroic,1,1,0,8,0
 Fnatic,0,0,0,0,0
 FaZe,3,3,0,27,0
 BIG,0,0,1,-5,0
-ENCE,3,2,2,15,0
+ENCE,3,0,4,5,0
 Ninjas in Pyjamas,0,0,1,-5,0
 FURIA,0,0,1,-5,0
 Legacy,3,0,4,5,0
@@ -14,7 +14,7 @@ MIBR,4,0,5,8,0
 Natus Vincere,1,1,0,8,0
 MOUZ,0,0,1,-5,0
 G2,5,1,2,32,0
-OG,4,0,2,25,0
+OG,6,2,2,42,0
 paiN,0,0,1,-5,0
 Imperial,0,0,1,-5,0
 Virtus.pro,1,1,0,8,0
