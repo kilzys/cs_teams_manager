@@ -34,13 +34,13 @@ Falcons,0,0,1,-5,0
 Sangal,0,0,1,-5,0
 ShindeN,1,1,0,8,0
 SAW,0,0,1,-5,0
-Nexus,4,2,2,23,0
+Nexus,4,0,4,13,0
 9Pandas,0,0,1,-5,0
 Passion UA,0,0,1,-5,0
 ARCRED,0,0,1,-5,0
 Qiang,0,0,1,-5,0
 Permitta,1,0,2,-2,0
-Rebels,3,0,2,17,0
+Rebels,5,2,2,34,0
 Eternal Fire,1,1,0,8,0
 3DMAX,0,0,1,-5,0
 Aurora,0,0,1,-5,0
