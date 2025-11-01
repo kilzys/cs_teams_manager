@@ -22,7 +22,7 @@ Spirit,1,1,0,8,0
 Entropiq,1,1,0,8,0
 Copenhagen Flames,1,1,0,8,0
 Envy,0,0,1,-5,0
-iBUYPOWER,1,1,0,8,0
+iBUYPOWER,3,3,0,27,0
 Evil Geniuses,0,0,1,-5,0
 Dignitas,0,0,1,-5,0
 Cloud9,3,2,1,20,0
@@ -32,7 +32,7 @@ Vexed,0,0,1,-5,0
 Iluminar,7,6,1,66,0
 Falcons,0,0,1,-5,0
 Sangal,0,0,1,-5,0
-ShindeN,1,1,0,8,0
+ShindeN,1,0,2,-2,0
 SAW,0,0,1,-5,0
 Nexus,4,0,4,13,0
 9Pandas,0,0,1,-5,0
