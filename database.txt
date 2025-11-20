@@ -2,9 +2,9 @@ Vitality,7,7,0,77,0
 Astralis,1,0,4,-12,0
 Liquid,7,3,2,52,0
 Mythic,0,0,1,-5,0
-Heroic,1,1,0,8,0
+Heroic,3,3,0,27,0
 Fnatic,0,0,0,0,0
-FaZe,3,3,0,27,0
+FaZe,4,0,2,25,0
 BIG,0,0,1,-5,0
 ENCE,3,0,4,5,0
 Ninjas in Pyjamas,0,0,1,-5,0
@@ -22,10 +22,10 @@ Spirit,1,1,0,8,0
 Entropiq,1,1,0,8,0
 Copenhagen Flames,1,1,0,8,0
 Envy,0,0,1,-5,0
-iBUYPOWER,3,3,0,27,0
+iBUYPOWER,3,0,2,17,0
 Evil Geniuses,0,0,1,-5,0
 Dignitas,0,0,1,-5,0
-Cloud9,3,2,1,20,0
+Cloud9,5,1,2,33,0
 SK,3,0,4,5,0
 Luminosity,0,0,1,-5,0
 Vexed,0,0,1,-5,0
