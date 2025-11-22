@@ -22,7 +22,7 @@ Spirit,1,1,0,8,0
 Entropiq,1,1,0,8,0
 Copenhagen Flames,5,5,0,50,0
 Envy,0,0,1,-5,0
-iBUYPOWER,3,0,2,17,0
+iBUYPOWER,4,0,4,15,0
 Evil Geniuses,0,0,1,-5,0
 Dignitas,0,0,1,-5,0
 Cloud9,5,1,2,33,0
@@ -41,7 +41,7 @@ ARCRED,0,0,1,-5,0
 Qiang,0,0,1,-5,0
 Permitta,2,0,4,-4,0
 Rebels,7,4,2,55,0
-Eternal Fire,4,2,3,19,0
+Eternal Fire,6,1,4,32,0
 3DMAX,0,0,1,-5,0
 Aurora,0,0,1,-5,0
 Complexity,0,0,1,-5,0
