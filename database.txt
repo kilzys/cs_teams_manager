@@ -2,7 +2,7 @@ Vitality,7,7,0,77,0
 Astralis,1,0,4,-12,0
 Liquid,7,3,2,52,0
 Mythic,0,0,1,-5,0
-Heroic,5,5,0,50,0
+Heroic,7,5,1,62,0
 Fnatic,0,0,0,0,0
 FaZe,4,0,4,15,0
 BIG,0,0,1,-5,0
