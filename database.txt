@@ -11,13 +11,13 @@ Ninjas in Pyjamas,0,0,1,-5,0
 FURIA,0,0,1,-5,0
 Legacy,3,0,4,5,0
 MIBR,4,0,5,8,0
-Natus Vincere,1,0,2,-2,0
+Natus Vincere,3,1,3,9,0
 MOUZ,0,0,1,-5,0
 G2,5,0,4,22,0
 OG,6,0,4,32,0
 paiN,0,0,1,-5,0
 Imperial,0,0,1,-5,0
-Virtus.pro,1,0,2,-2,0
+Virtus.pro,2,0,4,-4,0
 Spirit,1,1,0,8,0
 Entropiq,1,1,0,8,0
 Copenhagen Flames,6,0,2,53,0
@@ -76,7 +76,7 @@ Lynn Vision,0,0,1,-5,0
 VP.Prodigy,1,1,0,8,0
 TALON,1,1,0,8,0
 NomadS,0,0,1,-5,0
-NAVI Junior,3,3,0,27,0
+NAVI Junior,5,5,0,50,0
 BC.Game,0,0,1,-5,0
 Vantage,0,0,1,-5,0
 TYLOO,1,1,0,8,0
@@ -90,7 +90,7 @@ The Dice,0,0,1,-5,0
 ad hoc,0,0,1,-5,0
 Aravt,1,1,0,8,0
 Gods Reign,0,0,1,-5,0
-True Rippers,3,2,1,20,0
+True Rippers,3,0,3,10,0
 Alliance,1,1,0,8,0
 Carnival,0,0,1,-5,0
 Wings Up,0,0,1,-5,0
