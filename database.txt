@@ -64,19 +64,19 @@ The Huns,0,0,1,-5,0
 Sharks,0,0,1,-5,0
 ODDIK,0,0,1,-5,0
 inSanitY,0,0,1,-5,0
-Team Solid,3,2,2,15,0
+Team Solid,4,0,4,15,0
 Bounty Hunters,5,0,2,40,0
 Galorys,0,0,1,-5,0
 Spirit Academy,1,1,0,8,0
 Tricked,0,0,1,-5,0
-The MongolZ,3,3,0,27,0
+The MongolZ,5,2,1,39,0
 FlyQuest,0,0,1,-5,0
 PARIVISION,1,1,0,8,0
 Lynn Vision,0,0,1,-5,0
 VP.Prodigy,1,1,0,8,0
 TALON,1,1,0,8,0
 NomadS,0,0,1,-5,0
-NAVI Junior,5,5,0,50,0
+NAVI Junior,7,1,1,66,0
 BC.Game,0,0,1,-5,0
 Vantage,0,0,1,-5,0
 TYLOO,1,1,0,8,0
@@ -97,7 +97,7 @@ Wings Up,0,0,1,-5,0
 Nemiga,1,1,0,8,0
 Red Viperz,0,0,1,-5,0
 Victores Sumus,0,0,1,-5,0
-Onyx Ravens,3,2,1,20,0
+Onyx Ravens,4,0,3,18,0
 Skinvault,0,0,1,-5,0
 Reason Gaming,0,0,1,-5,0
 Bad News Eagles,3,0,4,5,0
