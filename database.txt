@@ -1,6 +1,6 @@
 Vitality,1,1,0,8,0
 Astralis,1,1,0,8,0
-Liquid,1,1,0,8,0
+Liquid,7,3,2,52,0
 Mythic,0,0,1,-5,0
 Heroic,1,1,0,8,0
 Fnatic,0,0,0,0,0
@@ -10,7 +10,7 @@ ENCE,1,1,0,8,0
 Ninjas in Pyjamas,0,0,1,-5,0
 FURIA,0,0,1,-5,0
 Legacy,3,0,4,5,0
-MIBR,1,1,0,8,0
+MIBR,4,0,5,8,0
 Natus Vincere,1,1,0,8,0
 MOUZ,0,0,1,-5,0
 G2,1,1,0,8,0
@@ -26,7 +26,7 @@ iBUYPOWER,1,1,0,8,0
 Evil Geniuses,0,0,1,-5,0
 Dignitas,0,0,1,-5,0
 Cloud9,1,1,0,8,0
-SK,1,1,0,8,0
+SK,3,0,4,5,0
 Luminosity,0,0,1,-5,0
 Vexed,0,0,1,-5,0
 Iluminar,7,6,1,66,0
@@ -48,15 +48,15 @@ Complexity,0,0,1,-5,0
 M80,3,0,4,7,0
 Wildcard,1,1,0,8,0
 BESTIA,1,1,0,8,0
-ECSTATIC,1,1,0,8,0
+ECSTATIC,2,0,4,-4,0
 RED Canids,5,0,4,24,0
 Case,0,0,1,-5,0
 KRU,0,0,1,-5,0
-Elevate,1,1,0,8,0
+Elevate,8,4,4,51,0
 GamerLegion,0,0,1,-5,0
 Underground,1,1,0,8,0
 9z,0,0,1,-5,0
-Orbit,1,1,0,8,0
+Orbit,6,0,4,35,0
 Limitless,0,0,1,-5,0
 Homyno,1,1,0,8,0
 Take Flyte,1,1,0,8,0
@@ -65,7 +65,7 @@ Sharks,0,0,1,-5,0
 ODDIK,0,0,1,-5,0
 inSanitY,0,0,1,-5,0
 Team Solid,1,1,0,8,0
-Bounty Hunters,1,1,0,8,0
+Bounty Hunters,5,0,2,40,0
 Galorys,0,0,1,-5,0
 Spirit Academy,1,1,0,8,0
 Tricked,0,0,1,-5,0
@@ -107,7 +107,7 @@ LDLC,0,0,1,-5,0
 Enemy,0,0,1,-5,0
 Titan,5,0,3,31,0
 hoorai,1,1,0,8,0
-GODSENT,1,1,0,8,0
+GODSENT,3,0,5,0,0
 Verdant,7,6,3,56,0
 Kappa Bar,0,0,1,-5,0
 MAD Lions,0,0,0,0,0
