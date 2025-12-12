@@ -1,20 +1,20 @@
-Vitality,1,1,0,8,0
-Astralis,1,1,0,8,0
+Vitality,7,7,0,77,0
+Astralis,1,0,4,-12,0
 Liquid,7,3,2,52,0
 Mythic,0,0,1,-5,0
 Heroic,1,1,0,8,0
 Fnatic,0,0,0,0,0
 FaZe,1,1,0,8,0
 BIG,0,0,1,-5,0
-ENCE,1,1,0,8,0
+ENCE,3,0,4,5,0
 Ninjas in Pyjamas,0,0,1,-5,0
 FURIA,0,0,1,-5,0
 Legacy,3,0,4,5,0
 MIBR,4,0,5,8,0
 Natus Vincere,1,1,0,8,0
 MOUZ,0,0,1,-5,0
-G2,1,1,0,8,0
-OG,1,1,0,8,0
+G2,5,0,4,22,0
+OG,6,0,4,32,0
 paiN,0,0,1,-5,0
 Imperial,0,0,1,-5,0
 Virtus.pro,1,1,0,8,0
@@ -34,19 +34,19 @@ Falcons,0,0,1,-5,0
 Sangal,0,0,1,-5,0
 ShindeN,1,1,0,8,0
 SAW,0,0,1,-5,0
-Nexus,1,1,0,8,0
+Nexus,3,0,4,5,0
 9Pandas,0,0,1,-5,0
 Passion UA,0,0,1,-5,0
 ARCRED,0,0,1,-5,0
 Qiang,0,0,1,-5,0
 Permitta,1,1,0,8,0
-Rebels,1,1,0,8,0
+Rebels,7,4,2,55,0
 Eternal Fire,1,1,0,8,0
 3DMAX,0,0,1,-5,0
 Aurora,0,0,1,-5,0
 Complexity,0,0,1,-5,0
 M80,3,0,4,7,0
-Wildcard,1,1,0,8,0
+Wildcard,1,0,4,-12,0
 BESTIA,1,1,0,8,0
 ECSTATIC,2,0,4,-4,0
 RED Canids,5,0,4,24,0
