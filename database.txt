@@ -9,7 +9,7 @@ BIG,0,0,1,-5,0
 ENCE,1,1,0,8,0
 Ninjas in Pyjamas,0,0,1,-5,0
 FURIA,0,0,1,-5,0
-Legacy,1,1,0,8,0
+Legacy,3,0,4,5,0
 MIBR,1,1,0,8,0
 Natus Vincere,1,1,0,8,0
 MOUZ,0,0,1,-5,0
@@ -29,7 +29,7 @@ Cloud9,1,1,0,8,0
 SK,1,1,0,8,0
 Luminosity,0,0,1,-5,0
 Vexed,0,0,1,-5,0
-Iluminar,1,1,0,8,0
+Iluminar,7,6,1,66,0
 Falcons,0,0,1,-5,0
 Sangal,0,0,1,-5,0
 ShindeN,1,1,0,8,0
@@ -45,11 +45,11 @@ Eternal Fire,1,1,0,8,0
 3DMAX,0,0,1,-5,0
 Aurora,0,0,1,-5,0
 Complexity,0,0,1,-5,0
-M80,1,1,0,8,0
+M80,3,0,4,7,0
 Wildcard,1,1,0,8,0
 BESTIA,1,1,0,8,0
 ECSTATIC,1,1,0,8,0
-RED Canids,1,1,0,8,0
+RED Canids,5,0,4,24,0
 Case,0,0,1,-5,0
 KRU,0,0,1,-5,0
 Elevate,1,1,0,8,0
@@ -100,15 +100,15 @@ Victores Sumus,0,0,1,-5,0
 Onyx Ravens,1,1,0,8,0
 Skinvault,0,0,1,-5,0
 Reason Gaming,0,0,1,-5,0
-Bad News Eagles,1,1,0,8,0
-Wizards,1,1,0,8,0
+Bad News Eagles,3,0,4,5,0
+Wizards,3,0,5,-1,0
 devils.one,0,0,1,-5,0
 LDLC,0,0,1,-5,0
 Enemy,0,0,1,-5,0
-Titan,1,1,0,8,0
+Titan,5,0,3,31,0
 hoorai,1,1,0,8,0
 GODSENT,1,1,0,8,0
-Verdant,1,1,0,8,0
+Verdant,7,6,3,56,0
 Kappa Bar,0,0,1,-5,0
 MAD Lions,0,0,0,0,0
 Copenhagen Wolves,0,0,0,0,0
