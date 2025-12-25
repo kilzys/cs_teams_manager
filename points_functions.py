@@ -25,27 +25,27 @@ def points_especial(database, id, type):
     match type:
         # Vitória nas quartas de uma competição
         case 0:
-            points += 2
+            points += 8
         # Vitória nas semi finais de uma competição
         case 1:
-            points += 3
+            points += 12
         # Ganhou um torneio/competição
         case 2:
-            points += 5
+            points += 20
         # Chegou nas playoffs de um major
         case 3:
-            points += 5
+            points += 10
         # Vitória nas quartas de major
         case 4:
-            points += 3
+            points += 15
         # Vitória nas semi-finais de major
         case 5:
-            points += 5
+            points += 20
         # Ganhou o major
         case 6:
             # Pega o valor anterior das quantidades de majors ganhos, e atribui mais 1. Lembrando de sempre transformar esses dados para "int" antes
             major = int(database[id][5])+1
-            points += 8
+            points += 30
             database[id][5] = major
     # Independente do time selecionado, após as mudanças de pontos, eles serão atualizados na no arquivo passado
     database[id][4] = points
