@@ -59,7 +59,7 @@ def menu_sincronizar(id, database):
         print(f'\033[34m  Majors: {database[id][5]}  \033[m')
         print('[0] +1 Win')
         print('[1] +1 Lose')
-        print('[2] Special Event')
+        print('[2] Add Points') #Previosly > Special Event
         print('\033[31m[3+] to cancel/confirm\033[m')
         option = int(input(': '))
         match option:
@@ -137,13 +137,14 @@ def zerar_banco(database):
 
 # Interface especial, chamada após uma interface anterior. Essa interface aqui tem somente uma função, mostrar na tela a opção em número, e o que aquele número fará. O resultado irá retornar qual o evento que o usuário deseja ativar.
 def special_interface():
-    print('\033[32m[0] - Vitória nas Quartas')
-    print('[1] - Vitória nas SemiFinais')
-    print('[2] - Ganhou um Torneio')
-    print('\033[35m[3] - Chegou nas Playoffs de Major')
-    print('[4] - Vitória nas Quartas de Major')
-    print('[5] - Vitória nas Semifinais de Major')
-    print('[6] - Venceu o Major')
+    print('\033[32mAdd Points')
+    #print('\033[32m[0] - Vitória nas Quartas')
+    #print('[1] - Vitória nas SemiFinais')
+    #print('[2] - Ganhou um Torneio')
+    #print('\033[35m[3] - Chegou nas Playoffs de Major')
+    #print('[4] - Vitória nas Quartas de Major')
+    #print('[5] - Vitória nas Semifinais de Major')
+    #print('[6] - Venceu o Major')
     print('\033[m[999] - Cancelar')
     option = int(input(': '))
     if option != 999:

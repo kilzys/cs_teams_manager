@@ -22,6 +22,8 @@ def points(database, id, win=False):
 def points_especial(database, id, type):
     # Pega os pontos atuais do time e atribui à uma variável
     points = int(database[id][4])
+    points += int(type)
+    '''
     match type:
         # Vitória nas quartas de uma competição
         case 0:
@@ -46,7 +48,7 @@ def points_especial(database, id, type):
             # Pega o valor anterior das quantidades de majors ganhos, e atribui mais 1. Lembrando de sempre transformar esses dados para "int" antes
             major = int(database[id][5])+1
             points += 30
-            database[id][5] = major
+            database[id][5] = major'''
     # Independente do time selecionado, após as mudanças de pontos, eles serão atualizados na no arquivo passado
     database[id][4] = points
     
