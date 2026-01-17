@@ -8,19 +8,19 @@ FaZe,4,0,4,15,0
 BIG,0,0,1,-5,0
 ENCE,3,0,4,5,0
 Ninjas in Pyjamas,0,0,1,-5,0
-FURIA,0,0,1,-5,0
+FURIA,0,0,3,-15,0
 Legacy,3,0,4,5,0
 MIBR,4,0,5,8,0
-Natus Vincere,7,0,5,35,0
+Natus Vincere,11,2,7,58,0
 MOUZ,0,0,1,-5,0
 G2,5,0,4,22,0
-OG,6,0,4,32,0
+OG,8,0,6,39,0
 paiN,0,0,1,-5,0
 Imperial,0,0,1,-5,0
 Virtus.pro,2,0,4,-4,0
 Spirit,7,4,1,60,0
 Entropiq,1,0,4,-12,0
-Copenhagen Flames,7,0,4,46,0
+Copenhagen Flames,11,4,4,84,0
 Envy,0,0,1,-5,0
 iBUYPOWER,4,0,4,15,0
 Evil Geniuses,0,0,1,-5,0
@@ -49,14 +49,14 @@ M80,3,0,4,7,0
 Wildcard,1,0,4,-12,0
 BESTIA,5,0,4,22,0
 ECSTATIC,2,0,4,-4,0
-RED Canids,5,0,4,24,0
+RED Canids,6,0,6,22,0
 Case,0,0,1,-5,0
 KRU,0,0,1,-5,0
 Elevate,8,4,4,51,0
 GamerLegion,0,0,1,-5,0
 Underground,2,0,4,-3,0
 9z,0,0,1,-5,0
-Orbit,6,0,4,35,0
+Orbit,7,0,6,33,0
 Limitless,0,0,1,-5,0
 Homyno,4,0,4,15,0
 Take Flyte,1,0,2,-2,0
@@ -79,10 +79,10 @@ NomadS,0,0,1,-5,0
 NAVI Junior,5,0,2,40,0
 BC.Game,0,0,1,-5,0
 Vantage,0,0,1,-5,0
-TYLOO,6,0,5,30,0
+TYLOO,9,0,8,42,0
 CatEvil,0,0,1,-5,0
 Outsiders,0,0,1,-5,0
-Chinggis Warrios,6,0,5,26,0
+Chinggis Warrios,6,0,7,16,0
 ATOX,0,0,1,-5,0
 IHC,0,0,1,-5,0
 MenaceGG,4,0,4,13,0
