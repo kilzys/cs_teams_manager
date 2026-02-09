@@ -52,7 +52,7 @@ ECSTATIC,2,0,4,-4,0
 RED Canids,6,0,6,22,0
 Case,0,0,1,-5,0
 KRU,0,0,1,-5,0
-Elevate,8,4,4,51,0
+Elevate,12,2,6,83,0
 GamerLegion,0,0,1,-5,0
 Underground,2,0,4,-3,0
 9z,0,0,1,-5,0
@@ -105,7 +105,7 @@ Wizards,3,0,5,-1,0
 devils.one,0,0,1,-5,0
 LDLC,0,0,1,-5,0
 Enemy,0,0,1,-5,0
-Titan,5,0,3,31,0
+Titan,9,2,7,45,0
 hoorai,5,0,2,40,0
 GODSENT,3,0,5,0,0
 Verdant,7,6,3,56,0
