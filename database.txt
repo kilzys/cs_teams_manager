@@ -74,7 +74,7 @@ FlyQuest,0,0,1,-5,0
 PARIVISION,7,4,1,60,0
 Lynn Vision,0,0,1,-5,0
 VP.Prodigy,2,0,4,-3,0
-TALON,8,4,4,53,0
+TALON,9,0,8,41,0
 NomadS,0,0,1,-5,0
 NAVI Junior,5,0,2,40,0
 BC.Game,0,0,1,-5,0
@@ -106,7 +106,7 @@ devils.one,0,0,1,-5,0
 LDLC,0,0,1,-5,0
 Enemy,0,0,1,-5,0
 Titan,9,2,7,45,0
-hoorai,5,0,2,40,0
+hoorai,6,0,6,28,0
 GODSENT,3,0,5,0,0
 Verdant,7,6,3,56,0
 Kappa Bar,0,0,1,-5,0
