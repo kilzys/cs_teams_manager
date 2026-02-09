@@ -47,7 +47,7 @@ Aurora,0,0,1,-5,0
 Complexity,0,0,1,-5,0
 M80,3,0,4,7,0
 Wildcard,1,0,4,-12,0
-BESTIA,5,0,4,22,0
+BESTIA,9,0,8,40,0
 ECSTATIC,2,0,4,-4,0
 RED Canids,6,0,6,22,0
 Case,0,0,1,-5,0
