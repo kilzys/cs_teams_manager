@@ -25,7 +25,7 @@ Envy,0,0,1,-5,0
 iBUYPOWER,4,0,4,15,0
 Evil Geniuses,0,0,1,-5,0
 Dignitas,0,0,1,-5,0
-Cloud9,5,0,4,23,0
+Cloud9,10,2,7,50,0
 SK,3,0,4,5,0
 Luminosity,0,0,1,-5,0
 Vexed,0,0,1,-5,0
@@ -94,7 +94,7 @@ True Rippers,3,0,5,0,0
 Alliance,4,0,5,10,0
 Carnival,0,0,1,-5,0
 Wings Up,0,0,1,-5,0
-Nemiga,7,4,3,48,0
+Nemiga,11,2,4,85,0
 Red Viperz,0,0,1,-5,0
 Victores Sumus,0,0,1,-5,0
 Onyx Ravens,7,4,2,53,0
