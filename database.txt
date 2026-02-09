@@ -69,7 +69,7 @@ Bounty Hunters,9,0,8,45,0
 Galorys,0,0,1,-5,0
 Spirit Academy,4,0,5,8,0
 Tricked,0,0,1,-5,0
-The MongolZ,8,1,4,53,0
+The MongolZ,12,1,6,77,0
 FlyQuest,0,0,1,-5,0
 PARIVISION,7,4,1,60,0
 Lynn Vision,0,0,1,-5,0
@@ -108,7 +108,7 @@ Enemy,0,0,1,-5,0
 Titan,9,2,7,45,0
 hoorai,6,0,6,28,0
 GODSENT,3,0,5,0,0
-Verdant,7,6,3,56,0
+Verdant,11,0,8,64,0
 Kappa Bar,0,0,1,-5,0
 MAD Lions,0,0,0,0,0
 Copenhagen Wolves,0,0,0,0,0
