@@ -1,8 +1,8 @@
-Vitality,7,7,0,77,0
+Vitality,8,8,0,92,0
 Astralis,1,0,4,-12,0
-Liquid,7,3,2,52,0
+Liquid,8,4,2,63,0
 Mythic,0,0,1,-5,0
-Heroic,7,5,1,62,0
+Heroic,7,0,2,57,0
 Fnatic,0,0,0,0,0
 FaZe,4,0,4,15,0
 BIG,0,0,1,-5,0
@@ -18,14 +18,14 @@ OG,8,0,6,39,0
 paiN,0,0,1,-5,0
 Imperial,0,0,1,-5,0
 Virtus.pro,2,0,4,-4,0
-Spirit,7,4,1,60,0
+Spirit,7,0,2,55,0
 Entropiq,1,0,4,-12,0
-Copenhagen Flames,15,8,4,138,0
+Copenhagen Flames,15,0,5,133,0
 Envy,0,0,1,-5,0
 iBUYPOWER,4,0,4,15,0
 Evil Geniuses,0,0,1,-5,0
 Dignitas,0,0,1,-5,0
-Cloud9,10,2,7,50,0
+Cloud9,10,0,8,45,0
 SK,3,0,4,5,0
 Luminosity,0,0,1,-5,0
 Vexed,0,0,1,-5,0
@@ -41,7 +41,7 @@ ARCRED,0,0,1,-5,0
 Qiang,0,0,1,-5,0
 Permitta,2,0,4,-4,0
 Rebels,10,0,7,54,0
-Eternal Fire,12,3,6,74,0
+Eternal Fire,13,4,6,85,0
 3DMAX,0,0,1,-5,0
 Aurora,0,0,1,-5,0
 Complexity,0,0,1,-5,0
@@ -52,7 +52,7 @@ ECSTATIC,2,0,4,-4,0
 RED Canids,6,0,6,22,0
 Case,0,0,1,-5,0
 KRU,0,0,1,-5,0
-Elevate,12,2,6,83,0
+Elevate,12,0,7,78,0
 GamerLegion,0,0,1,-5,0
 Underground,2,0,4,-3,0
 9z,0,0,1,-5,0
@@ -71,7 +71,7 @@ Spirit Academy,4,0,5,8,0
 Tricked,0,0,1,-5,0
 The MongolZ,12,1,6,77,0
 FlyQuest,0,0,1,-5,0
-PARIVISION,7,4,1,60,0
+PARIVISION,8,5,1,72,0
 Lynn Vision,0,0,1,-5,0
 VP.Prodigy,2,0,4,-3,0
 TALON,9,0,8,41,0
@@ -94,10 +94,10 @@ True Rippers,3,0,5,0,0
 Alliance,4,0,5,10,0
 Carnival,0,0,1,-5,0
 Wings Up,0,0,1,-5,0
-Nemiga,11,2,4,85,0
+Nemiga,11,0,5,80,0
 Red Viperz,0,0,1,-5,0
 Victores Sumus,0,0,1,-5,0
-Onyx Ravens,7,4,2,53,0
+Onyx Ravens,8,5,2,65,0
 Skinvault,0,0,1,-5,0
 Reason Gaming,0,0,1,-5,0
 Bad News Eagles,3,0,4,5,0
@@ -105,7 +105,7 @@ Wizards,3,0,5,-1,0
 devils.one,0,0,1,-5,0
 LDLC,0,0,1,-5,0
 Enemy,0,0,1,-5,0
-Titan,9,2,7,45,0
+Titan,10,3,7,55,0
 hoorai,6,0,6,28,0
 GODSENT,3,0,5,0,0
 Verdant,11,0,8,64,0
