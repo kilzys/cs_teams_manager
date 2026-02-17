@@ -9,7 +9,7 @@ BIG,0,0,0,0,0
 ENCE,0,0,0,0,0
 Ninjas in Pyjamas,0,0,0,0,0
 FURIA,0,0,0,0,0
-Legacy,0,0,0,0,0
+Legacy,3,0,4,5,0
 MIBR,0,0,0,0,0
 Natus Vincere,0,0,0,0,0
 MOUZ,0,0,0,0,0
@@ -28,7 +28,7 @@ Dignitas,0,0,0,0,0
 Cloud9,0,0,0,0,0
 SK,0,0,0,0,0
 Luminosity,0,0,0,0,0
-Vexed,0,0,0,0,0
+Vexed,0,0,1,-5,0
 Iluminar,0,0,0,0,0
 Falcons,0,0,0,0,0
 Sangal,0,0,0,0,0
@@ -60,7 +60,7 @@ Orbit,0,0,0,0,0
 Limitless,0,0,0,0,0
 Homyno,0,0,0,0,0
 Take Flyte,0,0,0,0,0
-The Huns,0,0,0,0,0
+The Huns,0,0,1,-5,0
 Sharks,0,0,0,0,0
 ODDIK,0,0,0,0,0
 inSanitY,0,0,0,0,0
@@ -101,7 +101,7 @@ Onyx Ravens,0,0,0,0,0
 Skinvault,0,0,0,0,0
 Reason Gaming,0,0,0,0,0
 Bad News Eagles,0,0,0,0,0
-Wizards,0,0,0,0,0
+Wizards,3,0,5,-1,0
 devils.one,0,0,0,0,0
 LDLC,0,0,0,0,0
 Enemy,0,0,0,0,0
