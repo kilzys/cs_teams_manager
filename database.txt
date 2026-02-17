@@ -16,7 +16,7 @@ MOUZ,0,0,0,0,0
 G2,0,0,0,0,0
 OG,0,0,0,0,0
 paiN,0,0,1,-5,0
-Imperial,0,0,0,0,0
+Imperial,0,0,1,-5,0
 Virtus.pro,0,0,0,0,0
 Spirit,0,0,0,0,0
 Entropiq,0,0,0,0,0
@@ -29,7 +29,7 @@ Cloud9,0,0,0,0,0
 SK,0,0,0,0,0
 Luminosity,0,0,0,0,0
 Vexed,0,0,1,-5,0
-Iluminar,0,0,0,0,0
+Iluminar,8,7,1,80,0
 Falcons,0,0,0,0,0
 Sangal,0,0,0,0,0
 ShindeN,0,0,0,0,0
@@ -51,8 +51,8 @@ BESTIA,0,0,0,0,0
 ECSTATIC,0,0,0,0,0
 RED Canids,0,0,0,0,0
 Case,0,0,0,0,0
-KRU,0,0,0,0,0
-Elevate,0,0,0,0,0
+KRU,0,0,1,-5,0
+Elevate,11,0,8,56,0
 GamerLegion,0,0,0,0,0
 Underground,0,0,0,0,0
 9z,0,0,1,-5,0
