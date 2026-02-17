@@ -15,7 +15,7 @@ Natus Vincere,0,0,0,0,0
 MOUZ,0,0,0,0,0
 G2,0,0,0,0,0
 OG,0,0,0,0,0
-paiN,0,0,0,0,0
+paiN,0,0,1,-5,0
 Imperial,0,0,0,0,0
 Virtus.pro,0,0,0,0,0
 Spirit,0,0,0,0,0
@@ -55,7 +55,7 @@ KRU,0,0,0,0,0
 Elevate,0,0,0,0,0
 GamerLegion,0,0,0,0,0
 Underground,0,0,0,0,0
-9z,0,0,0,0,0
+9z,0,0,1,-5,0
 Orbit,0,0,0,0,0
 Limitless,0,0,0,0,0
 Homyno,0,0,0,0,0
@@ -100,7 +100,7 @@ Victores Sumus,0,0,0,0,0
 Onyx Ravens,0,0,0,0,0
 Skinvault,0,0,0,0,0
 Reason Gaming,0,0,0,0,0
-Bad News Eagles,0,0,0,0,0
+Bad News Eagles,3,0,4,5,0
 Wizards,3,0,5,-1,0
 devils.one,0,0,0,0,0
 LDLC,0,0,0,0,0
@@ -108,7 +108,7 @@ Enemy,0,0,0,0,0
 Titan,0,0,0,0,0
 hoorai,0,0,0,0,0
 GODSENT,0,0,0,0,0
-Verdant,0,0,0,0,0
+Verdant,11,0,8,64,0
 Kappa Bar,0,0,0,0,0
 MAD Lions,0,0,0,0,0
 Copenhagen Wolves,0,0,0,0,0
