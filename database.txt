@@ -14,7 +14,7 @@ MIBR,4,0,5,8,0
 Natus Vincere,0,0,0,0,0
 MOUZ,0,0,0,0,0
 G2,0,0,0,0,0
-OG,0,0,0,0,0
+OG,8,0,6,39,0
 paiN,0,0,1,-5,0
 Imperial,0,0,1,-5,0
 Virtus.pro,0,0,0,0,0
@@ -66,7 +66,7 @@ ODDIK,0,0,0,0,0
 inSanitY,0,0,0,0,0
 Team Solid,0,0,0,0,0
 Bounty Hunters,9,0,8,45,0
-Galorys,0,0,0,0,0
+Galorys,0,0,1,-5,0
 Spirit Academy,0,0,0,0,0
 Tricked,0,0,0,0,0
 The MongolZ,0,0,0,0,0
