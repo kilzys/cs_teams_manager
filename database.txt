@@ -11,19 +11,19 @@ Ninjas in Pyjamas,0,0,3,-15,0
 FURIA,4,0,6,5,0
 Legacy,3,0,4,5,0
 MIBR,4,0,5,8,0
-Natus Vincere,0,0,0,0,0
+Natus Vincere,8,3,1,72,0
 MOUZ,1,0,3,-7,0
 G2,7,0,8,18,0
 OG,8,0,6,39,0
 paiN,0,0,1,-5,0
 Imperial,0,0,1,-5,0
-Virtus.pro,0,0,0,0,0
-Spirit,0,0,0,0,0
-Entropiq,0,0,0,0,0
+Virtus.pro,2,0,4,-4,0
+Spirit,7,0,2,55,0
+Entropiq,1,0,4,-12,0
 Copenhagen Flames,15,0,5,133,0
 Envy,0,0,1,-5,0
 iBUYPOWER,4,0,4,15,0
-Evil Geniuses,0,0,0,0,0
+Evil Geniuses,0,0,1,-5,0
 Dignitas,3,0,4,4,0
 Cloud9,10,0,8,45,0
 SK,3,0,4,5,0
@@ -31,14 +31,14 @@ Luminosity,0,0,1,-5,0
 Vexed,0,0,1,-5,0
 Iluminar,8,7,1,80,0
 Falcons,6,0,3,39,0
-Sangal,0,0,0,0,0
+Sangal,0,0,1,-5,0
 ShindeN,1,0,4,-12,0
-SAW,0,0,0,0,0
+SAW,0,0,1,-5,0
 Nexus,4,0,4,13,0
-9Pandas,0,0,0,0,0
+9Pandas,0,0,1,-5,0
 Passion UA,0,0,1,-5,0
 ARCRED,0,0,1,-5,0
-Qiang,0,0,0,0,0
+Qiang,0,0,1,-5,0
 Permitta,2,0,4,-4,0
 Rebels,10,0,7,54,0
 Eternal Fire,13,4,6,85,0
@@ -47,66 +47,66 @@ Aurora,0,0,3,-15,0
 Complexity,0,0,1,-5,0
 M80,3,0,4,7,0
 Wildcard,1,0,4,-12,0
-BESTIA,0,0,0,0,0
+BESTIA,9,0,8,40,0
 ECSTATIC,2,0,4,-4,0
 RED Canids,6,0,6,22,0
 Case,0,0,1,-5,0
 KRU,0,0,1,-5,0
 Elevate,11,0,8,56,0
 GamerLegion,0,0,1,-5,0
-Underground,0,0,0,0,0
+Underground,2,0,4,-3,0
 9z,0,0,1,-5,0
 Orbit,7,0,6,33,0
 Limitless,0,0,1,-5,0
-Homyno,0,0,0,0,0
-Take Flyte,0,0,0,0,0
+Homyno,4,0,4,15,0
+Take Flyte,2,0,4,-4,0
 The Huns,0,0,1,-5,0
 Sharks,0,0,1,-5,0
-ODDIK,0,0,0,0,0
-inSanitY,0,0,0,0,0
-Team Solid,0,0,0,0,0
+ODDIK,0,0,1,-5,0
+inSanitY,0,0,1,-5,0
+Solid,4,0,4,15,0
 Bounty Hunters,9,0,8,45,0
 Galorys,0,0,1,-5,0
-Spirit Academy,0,0,0,0,0
-Tricked,0,0,0,0,0
-The MongolZ,0,0,0,0,0
+Spirit Academy,4,0,5,8,0
+Tricked,0,0,1,-5,0
+The MongolZ,13,2,6,86,0
 FlyQuest,0,0,1,-5,0
-PARIVISION,0,0,0,0,0
-Lynn Vision,0,0,0,0,0
-VP.Prodigy,0,0,0,0,0
-TALON,0,0,0,0,0
-NomadS,0,0,0,0,0
-NAVI Junior,0,0,0,0,0
-BC.Game,0,0,0,0,0
-Vantage,0,0,0,0,0
-TYLOO,0,0,0,0,0
-CatEvil,0,0,0,0,0
-Outsiders,0,0,0,0,0
-Chinggis Warrios,0,0,0,0,0
-ATOX,0,0,0,0,0
+PARIVISION,8,5,1,72,0
+Lynn Vision,0,0,1,-5,0
+VP.Prodigy,2,0,4,-3,0
+TALON,9,0,8,41,0
+NomadS,0,0,1,-5,0
+NAVI Junior,11,0,11,38,0
+BC.Game,0,0,1,-5,0
+Vantage,0,0,1,-5,0
+TYLOO,9,0,8,42,0
+CatEvil,0,0,1,-5,0
+Outsiders,0,0,1,-5,0
+Chinggis Warrios,6,0,7,16,0
+ATOX,0,0,1,-5,0
 IHC,0,0,1,-5,0
-MenaceGG,0,0,0,0,0
-The Dice,0,0,0,0,0
-ad hoc,0,0,0,0,0
-Aravt,0,0,0,0,0
-Gods Reign,0,0,0,0,0
-True Rippers,0,0,0,0,0
-Alliance,0,0,0,0,0
-Carnival,0,0,0,0,0
-Wings Up,0,0,0,0,0
-Nemiga,0,0,0,0,0
-Red Viperz,0,0,0,0,0
-Victores Sumus,0,0,0,0,0
-Onyx Ravens,0,0,0,0,0
-Skinvault,0,0,0,0,0
-Reason Gaming,0,0,0,0,0
+MenaceGG,4,0,4,13,0
+The Dice,0,0,1,-5,0
+ad hoc,0,0,1,-5,0
+Aravt,3,0,4,5,0
+Gods Reign,0,0,1,-5,0
+True Rippers,3,0,5,0,0
+Alliance,4,0,5,10,0
+Carnival,0,0,1,-5,0
+Wings Up,0,0,1,-5,0
+Nemiga,11,0,5,80,0
+Red Viperz,0,0,1,-5,0
+Victores Sumus,0,0,1,-5,0
+Onyx Ravens,11,0,9,48,0
+Skinvault,0,0,1,-5,0
+Reason,0,0,3,-15,0
 Bad News Eagles,3,0,4,5,0
 Wizards,3,0,5,-1,0
 devils.one,0,0,1,-5,0
 LDLC,3,0,3,10,0
 Enemy,0,0,1,-5,0
 Titan,10,3,7,55,0
-hoorai,0,0,0,0,0
+hoorai,6,0,6,28,0
 GODSENT,3,0,5,0,0
 Verdant,11,0,8,64,0
 Kappa Bar,0,0,1,-5,0
@@ -120,7 +120,7 @@ LGB eSports,0,0,0,0,0
 Venom,0,0,1,-5,0
 ESC,0,0,0,0,0
 Bravado,0,0,0,0,0
-Team Kinguin,0,0,0,0,0
+Kinguin,0,0,0,0,0
 Counter Logic Games,0,0,0,0,0
 Gambit,0,0,0,0,0
 Space Soldiers,0,0,0,0,0
