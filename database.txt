@@ -1,6 +1,6 @@
-Vitality,8,8,0,92,0
+Vitality,8,0,1,87,0
 Astralis,1,0,4,-12,0
-Liquid,8,4,2,63,0
+Liquid,9,5,2,75,0
 Mythic,0,0,1,-5,0
 Heroic,7,0,2,57,0
 Fnatic,0,0,0,0,0
@@ -11,7 +11,7 @@ Ninjas in Pyjamas,0,0,3,-15,0
 FURIA,4,0,6,5,0
 Legacy,3,0,4,5,0
 MIBR,4,0,5,8,0
-Natus Vincere,8,3,1,72,0
+Natus Vincere,8,0,2,67,0
 MOUZ,1,0,3,-7,0
 G2,7,0,8,18,0
 OG,8,0,6,39,0
@@ -69,9 +69,9 @@ Bounty Hunters,9,0,8,45,0
 Galorys,0,0,1,-5,0
 Spirit Academy,4,0,5,8,0
 Tricked,0,0,1,-5,0
-The MongolZ,13,2,6,86,0
+The MongolZ,14,3,6,96,0
 FlyQuest,0,0,1,-5,0
-PARIVISION,8,5,1,72,0
+PARIVISION,8,0,2,67,0
 Lynn Vision,0,0,1,-5,0
 VP.Prodigy,2,0,4,-3,0
 TALON,9,0,8,41,0
@@ -105,7 +105,7 @@ Wizards,3,0,5,-1,0
 devils.one,0,0,1,-5,0
 LDLC,3,0,3,10,0
 Enemy,0,0,1,-5,0
-Titan,10,3,7,55,0
+Titan,11,4,7,66,0
 hoorai,6,0,6,28,0
 GODSENT,3,0,5,0,0
 Verdant,11,0,8,64,0
