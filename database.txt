@@ -29,7 +29,7 @@ Cloud9,10,0,8,45,0
 SK,3,0,4,5,0
 Luminosity,0,0,1,-5,0
 Vexed,0,0,1,-5,0
-Iluminar,8,7,1,80,0
+Iluminar,9,8,1,95,0
 Falcons,6,0,3,39,0
 Sangal,0,0,1,-5,0
 ShindeN,1,0,4,-12,0
@@ -41,7 +41,7 @@ ARCRED,0,0,1,-5,0
 Qiang,0,0,1,-5,0
 Permitta,2,0,4,-4,0
 Rebels,10,0,7,54,0
-Eternal Fire,13,4,6,85,0
+Eternal Fire,13,0,7,80,0
 3DMAX,0,0,1,-5,0
 Aurora,0,0,3,-15,0
 Complexity,0,0,1,-5,0
