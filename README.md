@@ -1,4 +1,4 @@
-Step 1 — Replace File Storage with Database
+## Step 1 — Replace File Storage with Database
 Replace .txt / .xlsx
 Use:
 SQLite (simple)
@@ -7,7 +7,7 @@ This introduces:
 SQL
 Real data modeling
 
-Step 2 — Turn Logic Into an API
+## Step 2 — Turn Logic Into an API
 Use:
 Python + Flask or FastAPI
 Your functions become endpoints:
@@ -17,14 +17,14 @@ Your functions become endpoints:
 Now your system is:
 Accessible externally
 
-Step 3 — Test It Like a Real System
+## Step 3 — Test It Like a Real System
 Use Postman or curl
 Send requests
 Receive responses
 Now you simulate:
 Real backend behavior
 
-Example tasks (your evenings):
+### Example tasks (your evenings):
 “Replace txt storage with SQLite”
 “Create first API endpoint”
 “Connect database to function”
