@@ -1,6 +1,6 @@
 Vitality,0,0,0,0,0
 Astralis,0,0,0,0,0
-Liquid,0,0,0,0,0
+Liquid,1,0,1,6,0
 Mythic,0,0,0,0,0
 Heroic,0,0,0,0,0
 Fnatic,0,0,0,0,0

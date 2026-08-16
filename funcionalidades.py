@@ -5,7 +5,7 @@ from external_functions import exibir_teams
 
 # Função responsável pela interface principal do programa.
 
-# Observação: É importante já deixar notificado aqui que o parâmetro utilizado por 90% das funções como cancelamento/retorno é justamente o número 999. Caso o arquivo/banco de dados ultrapasse ou, idealmente, se aproxime disso, será necessária a troca de todos esses valores para algo como '9999', ou até mais se o foco é evitar mudanças, ao mesmo tempo que o arquivo abriga milhares de valores.
+# Observação: É importante já deixar notificado aqui que o parâmetro utilizado por 90% das funções como cancelamento/retorno é justamente o número 999. Caso o arquivo/banco de dados ultrapasse ou, idealmente, se aproxime disso, será necessária a troca de todos esses valores para algo como '9999', ou até mais se o foco for evitar mudanças, ao mesmo tempo que o arquivo abriga milhares de valores.
 
 
 def interface(database):
