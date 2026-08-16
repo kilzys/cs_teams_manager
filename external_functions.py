@@ -23,7 +23,7 @@ def criarExcel(database):
                          'Majors': values[6]})
     
     # Pega o arquivo já no formato pd e o torna em excel, automaticamente salvando-o
-    file.to_excel('hltv.xlsx', 'teams_database')
+    file.to_excel('hltv.xlsx', sheet_name='teams_database',index=False)
 
 
 
@@ -32,12 +32,14 @@ def exibir_teams(database):
     # Chama a função e atribui os dados retornados dela em uma variável
     values = separar_planilha(database)
     # Cria o arquivo no formato pd, sendo o nome as colunas (exemplo: Team), e os dados pertencentes aquela coluna (exemplo: values[1]). Um detalhe importante é que os dados são passados a partir de uma lista, pegando uma quantidade ilimitada de linhas.
-    file = pd.DataFrame({'Team': values[1],
-                         'Wins': values[2],
-                         'Streak': values[3],
-                         'Loses': values[4],
-                         'Points': values[5],
-                         'Majors': values[6]})
+    
+    file = pd.DataFrame({
+        'Team': values[1],
+        'Wins': values[2],
+        'Streak': values[3],
+        'Loses': values[4],
+        'Points': values[5],
+        'Majors': values[6]})
     
     # Comandos para exibir a tabela inteira de dados. Se essa parte não for inserida, os dados serão limitados, visto que quanto a tabela é muito grande, o python limita a exibição no print para melhor legibilidade
     pd.set_option('display.max_rows', None)
