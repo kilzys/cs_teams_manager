@@ -36,7 +36,7 @@ def atualizar_banco(database):
     for item in database:
         # Verificando se é o primeiro time a ser registrado.
         if item == 0:
-            # Sendo o primeiro, somente iremos salvar os dados em forma de "string". A questão é, precisamos manter a "," entre cada dado do time, para futura transformação desses dados brutos de volta em forma de dicionário. Aqui nós pegamos o [0][dados] pois é o primeiro item da dabatase, seguido de cada dado daquele time em seguida -> [0[1][2][3][4][5].
+            # Sendo o primeiro, somente iremos salvar os dados em forma de "string". A questão é, precisamos manter a "," entre cada dado do time, para futura transformação desses dados brutos de volta em forma de dicionário. Aqui nós pegamos o [0][dados] pois é o primeiro item da dabatase, seguido de cada dado daquele time em seguida -> [0][1][2][3][4][5].
             dadosbrutos = f'{database[0][0]},{database[0][1]},{database[0][2]},{database[0][3]},{database[0][4]},{database[0][5]}'
         # Faz a mesma coisa que o comando acima, a única diferença aqui é quanto ao time passado, que não será mais [0][dados], mas sim [item][dados], seguindo a mesma sequencia acima. Importante relembrar, como não é mais o primeiro time, precisamos salvar esses novos dados juntamente dos salvos anteriormente, sendo necessário o {dadosbrutos} juntamente do '\n' para garantir que os dados anteriores serão salvos. O '\n' será utilizado para separar um time do outro, logo, é de suma importância mantê-lo.
         else:
